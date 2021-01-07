@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Reorder マウント metaタグ 1`] = `
+NodeList [
+  <meta
+    content="noindex"
+    data-vmid="robots"
+    data-vue-meta="2"
+    name="robots"
+  />,
+]
+`;
+
+exports[`Reorder マウント titleタグ 1`] = `"やそスポーツクラブ | 予約団体並べ替え"`;
+
+exports[`Reorder マウント データ取得：成功 ページ全体表示 1`] = `
+<div>
+  <h1>
+    予約団体並べ替え
+  </h1>
+   
+  <form
+    class=""
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="card-body"
+      >
+        <transition-group-stub
+          name="reorder"
+          tag="CListGroup"
+        >
+          <li
+            class="list-group-item"
+          >
+            <button
+              class="btn mr-1 btn-outline-info btn-sm"
+              id="btn-up-1"
+              type="button"
+            >
+              <svg
+                class="c-icon"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  class="ci-primary"
+                  d="M352.062,496h-192V295.993L16.047,296l.037-38.688L256.318,17.364,496,257.7v38.278l-143.938.006Zm-160-32h128V263.984l137.007-.006L256.274,62.636,54.672,264l137.39-.008Z"
+                  fill="var(--ci-primary-color, currentColor)"
+                />
+              </svg>
+            </button>
+             
+            <button
+              class="btn mr-2 btn-outline-info btn-sm"
+              id="btn-down-1"
+              type="button"
+            >
+              <svg
+                class="c-icon"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  class="ci-primary"
+                  d="M255.682,494.636,16,254.3V216.024l143.937-.007V16h192V216.007L495.952,216l-.035,38.688ZM54.931,248.022l200.8,201.342L457.328,248l-137.391.008V48h-128V248.015Z"
+                  fill="var(--ci-primary-color, currentColor)"
+                />
+              </svg>
+            </button>
+            
+          一般団体
+        
+          </li>
+          <li
+            class="list-group-item"
+          >
+            <button
+              class="btn mr-1 btn-outline-info btn-sm"
+              id="btn-up-2"
+              type="button"
+            >
+              <svg
+                class="c-icon"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  class="ci-primary"
+                  d="M352.062,496h-192V295.993L16.047,296l.037-38.688L256.318,17.364,496,257.7v38.278l-143.938.006Zm-160-32h128V263.984l137.007-.006L256.274,62.636,54.672,264l137.39-.008Z"
+                  fill="var(--ci-primary-color, currentColor)"
+                />
+              </svg>
+            </button>
+             
+            <button
+              class="btn mr-2 btn-outline-info btn-sm"
+              id="btn-down-2"
+              type="button"
+            >
+              <svg
+                class="c-icon"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  class="ci-primary"
+                  d="M255.682,494.636,16,254.3V216.024l143.937-.007V16h192V216.007L495.952,216l-.035,38.688ZM54.931,248.022l200.8,201.342L457.328,248l-137.391.008V48h-128V248.015Z"
+                  fill="var(--ci-primary-color, currentColor)"
+                />
+              </svg>
+            </button>
+            
+          普及活動クラブ
+        
+          </li>
+        </transition-group-stub>
+      </div>
+       
+      <footer
+        class="card-footer"
+      >
+        <button
+          class="btn btn-secondary"
+          id="btn-reset"
+          type="button"
+        >
+          
+        リセット
+      
+        </button>
+         
+        <button
+          class="btn btn-primary"
+          type="submit"
+        >
+          
+        保存
+      
+        </button>
+      </footer>
+    </div>
+  </form>
+</div>
+`;

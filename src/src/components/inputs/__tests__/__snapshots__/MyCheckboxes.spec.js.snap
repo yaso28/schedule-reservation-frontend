@@ -1,0 +1,419 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyCheckboxes slot 表示 1`] = `
+<div
+  class="form-row form-group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for=""
+  >
+    
+    サンプル
+  
+  </label>
+   
+  <div
+    class="col-sm-9"
+  >
+    <div
+      class="my-input-wrapper"
+    >
+      <div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="sample_field-1"
+            type="checkbox"
+            value="1"
+          />
+           
+          <label
+            class="form-check-label"
+            for="sample_field-1"
+          >
+            <span
+              class="aaa"
+            >
+              オプション1
+            </span>
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="sample_field-2"
+            type="checkbox"
+            value="2"
+          />
+           
+          <label
+            class="form-check-label"
+            for="sample_field-2"
+          >
+            <span
+              class="aaa"
+            >
+              オプション2
+            </span>
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="sample_field-3"
+            type="checkbox"
+            value="3"
+          />
+           
+          <label
+            class="form-check-label"
+            for="sample_field-3"
+          >
+            <span
+              class="aaa"
+            >
+              オプション3
+            </span>
+          </label>
+        </div>
+      </div>
+    </div>
+     
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`MyCheckboxes オプション custom mappers 表示 1`] = `
+<div
+  class="form-row form-group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for=""
+  >
+    
+    サンプル
+  
+  </label>
+   
+  <div
+    class="col-sm-9"
+  >
+    <div
+      class="my-input-wrapper"
+    >
+      <div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="sample_field-2"
+            type="checkbox"
+            value="2"
+          />
+           
+          <label
+            class="form-check-label"
+            for="sample_field-2"
+          >
+            
+        カスタム２
+      
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="sample_field-4"
+            type="checkbox"
+            value="4"
+          />
+           
+          <label
+            class="form-check-label"
+            for="sample_field-4"
+          >
+            
+        カスタム４
+      
+          </label>
+        </div>
+      </div>
+    </div>
+     
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`MyCheckboxes オプション inline 表示 1`] = `
+<div
+  class="form-row form-group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for=""
+  >
+    
+    サンプル
+  
+  </label>
+   
+  <div
+    class="col-sm-9"
+  >
+    <div
+      class="my-input-wrapper"
+    >
+      <div>
+        <div
+          class="form-check form-check-inline"
+        >
+          <input
+            class="form-check-input"
+            id="sample_field-1"
+            type="checkbox"
+            value="1"
+          />
+           
+          <label
+            class="form-check-label"
+            for="sample_field-1"
+          >
+            
+        オプション1
+      
+          </label>
+        </div>
+        <div
+          class="form-check form-check-inline"
+        >
+          <input
+            class="form-check-input"
+            id="sample_field-2"
+            type="checkbox"
+            value="2"
+          />
+           
+          <label
+            class="form-check-label"
+            for="sample_field-2"
+          >
+            
+        オプション2
+      
+          </label>
+        </div>
+        <div
+          class="form-check form-check-inline"
+        >
+          <input
+            class="form-check-input"
+            id="sample_field-3"
+            type="checkbox"
+            value="3"
+          />
+           
+          <label
+            class="form-check-label"
+            for="sample_field-3"
+          >
+            
+        オプション3
+      
+          </label>
+        </div>
+      </div>
+    </div>
+     
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`MyCheckboxes バリデーションエラー 表示 1`] = `
+<div
+  class="form-row form-group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for=""
+  >
+    
+    サンプル
+  
+  </label>
+   
+  <div
+    class="col-sm-9"
+  >
+    <div
+      class="my-input-wrapper is-invalid"
+    >
+      <div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="sample_field-1"
+            type="checkbox"
+            value="1"
+          />
+           
+          <label
+            class="form-check-label"
+            for="sample_field-1"
+          >
+            
+        オプション1
+      
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="sample_field-2"
+            type="checkbox"
+            value="2"
+          />
+           
+          <label
+            class="form-check-label"
+            for="sample_field-2"
+          >
+            
+        オプション2
+      
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="sample_field-3"
+            type="checkbox"
+            value="3"
+          />
+           
+          <label
+            class="form-check-label"
+            for="sample_field-3"
+          >
+            
+        オプション3
+      
+          </label>
+        </div>
+      </div>
+    </div>
+     
+    <div
+      class="invalid-feedback"
+    >
+      
+      エラーです
+    
+    </div>
+  </div>
+</div>
+`;
+
+exports[`MyCheckboxes 通常 表示 1`] = `
+<div
+  class="form-row form-group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for=""
+  >
+    
+    サンプル
+  
+  </label>
+   
+  <div
+    class="col-sm-9"
+  >
+    <div
+      class="my-input-wrapper"
+    >
+      <div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="sample_field-1"
+            type="checkbox"
+            value="1"
+          />
+           
+          <label
+            class="form-check-label"
+            for="sample_field-1"
+          >
+            
+        オプション1
+      
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="sample_field-2"
+            type="checkbox"
+            value="2"
+          />
+           
+          <label
+            class="form-check-label"
+            for="sample_field-2"
+          >
+            
+        オプション2
+      
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="sample_field-3"
+            type="checkbox"
+            value="3"
+          />
+           
+          <label
+            class="form-check-label"
+            for="sample_field-3"
+          >
+            
+        オプション3
+      
+          </label>
+        </div>
+      </div>
+    </div>
+     
+    <!---->
+  </div>
+</div>
+`;

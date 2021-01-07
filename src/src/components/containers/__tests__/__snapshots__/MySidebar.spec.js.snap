@@ -1,0 +1,624 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MySidebar 認証あり・権限あり reservation.read 表示 1`] = `
+<div
+  class="c-sidebar c-sidebar-dark c-sidebar-lg-show c-sidebar-fixed"
+>
+  <div
+    class="c-sidebar-brand"
+  >
+    <span
+      class="ml-2 font-weight-bold"
+    >
+      やそスポーツクラブ
+    </span>
+  </div>
+   
+  <ul
+    class="c-sidebar-nav h-100 ps"
+    data-v-3738b722=""
+    style="position: relative;"
+  >
+    <li
+      class="c-sidebar-nav-item"
+      data-v-3738b722=""
+    >
+      <a
+        aria-current="page"
+        class="router-link-exact-active c-active c-sidebar-nav-link"
+        href="/"
+        target="_self"
+      >
+        <!---->
+        <!---->
+         ホーム 
+        <!---->
+      </a>
+    </li>
+     
+    <li
+      class="c-sidebar-nav-item"
+      data-v-3738b722=""
+    >
+      <a
+        class="c-sidebar-nav-link"
+        href="/schedule/list"
+        target="_self"
+      >
+        <!---->
+        <!---->
+         練習予定 
+        <!---->
+      </a>
+    </li>
+     
+    <li
+      class="c-sidebar-nav-dropdown"
+      data-v-3738b722=""
+    >
+      <a
+        class="c-sidebar-nav-dropdown-toggle"
+      >
+        <!---->
+        <!---->
+         会場予約 
+      </a>
+      <ul
+        class="c-sidebar-nav-dropdown-items"
+      >
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/month/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             月一覧 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/schedule/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             練習予定一覧 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/reservation/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             会場予約一覧 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/schedule-status/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             公開ステータス 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/reservation-status/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             予約ステータス 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/reservation-organization/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             予約団体 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/schedule-place/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             場所 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/schedule-usage/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             用途 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/schedule-timetable/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             時間割 
+            <!---->
+          </a>
+        </li>
+         
+        <!---->
+      </ul>
+    </li>
+    <div
+      class="ps__rail-x"
+      style="left: 0px; top: 0px;"
+    >
+      <div
+        class="ps__thumb-x"
+        style="left: 0px; width: 0px;"
+        tabindex="0"
+      />
+    </div>
+    <div
+      class="ps__rail-y"
+      style="top: 0px; left: 0px;"
+    >
+      <div
+        class="ps__thumb-y"
+        style="top: 0px; height: 0px;"
+        tabindex="0"
+      />
+    </div>
+  </ul>
+</div>
+`;
+
+exports[`MySidebar 認証あり・権限あり reservation.write 表示 1`] = `
+<div
+  class="c-sidebar c-sidebar-dark c-sidebar-lg-show c-sidebar-fixed"
+>
+  <div
+    class="c-sidebar-brand"
+  >
+    <span
+      class="ml-2 font-weight-bold"
+    >
+      やそスポーツクラブ
+    </span>
+  </div>
+   
+  <ul
+    class="c-sidebar-nav h-100 ps"
+    data-v-3738b722=""
+    style="position: relative;"
+  >
+    <li
+      class="c-sidebar-nav-item"
+      data-v-3738b722=""
+    >
+      <a
+        aria-current="page"
+        class="router-link-exact-active c-active c-sidebar-nav-link"
+        href="/"
+        target="_self"
+      >
+        <!---->
+        <!---->
+         ホーム 
+        <!---->
+      </a>
+    </li>
+     
+    <li
+      class="c-sidebar-nav-item"
+      data-v-3738b722=""
+    >
+      <a
+        class="c-sidebar-nav-link"
+        href="/schedule/list"
+        target="_self"
+      >
+        <!---->
+        <!---->
+         練習予定 
+        <!---->
+      </a>
+    </li>
+     
+    <li
+      class="c-sidebar-nav-dropdown"
+      data-v-3738b722=""
+    >
+      <a
+        class="c-sidebar-nav-dropdown-toggle"
+      >
+        <!---->
+        <!---->
+         会場予約 
+      </a>
+      <ul
+        class="c-sidebar-nav-dropdown-items"
+      >
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/month/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             月一覧 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/schedule/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             練習予定一覧 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/reservation/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             会場予約一覧 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/schedule-status/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             公開ステータス 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/reservation-status/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             予約ステータス 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/reservation-organization/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             予約団体 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/schedule-place/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             場所 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/schedule-usage/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             用途 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/schedule-timetable/list"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             時間割 
+            <!---->
+          </a>
+        </li>
+         
+        <li
+          class="c-sidebar-nav-item"
+        >
+          <a
+            class="c-sidebar-nav-link"
+            href="/reservation/setting/edit"
+            target="_self"
+          >
+            <!---->
+            <!---->
+             設定 
+            <!---->
+          </a>
+        </li>
+      </ul>
+    </li>
+    <div
+      class="ps__rail-x"
+      style="left: 0px; top: 0px;"
+    >
+      <div
+        class="ps__thumb-x"
+        style="left: 0px; width: 0px;"
+        tabindex="0"
+      />
+    </div>
+    <div
+      class="ps__rail-y"
+      style="top: 0px; left: 0px;"
+    >
+      <div
+        class="ps__thumb-y"
+        style="top: 0px; height: 0px;"
+        tabindex="0"
+      />
+    </div>
+  </ul>
+</div>
+`;
+
+exports[`MySidebar 認証あり・権限なし 表示 1`] = `
+<div
+  class="c-sidebar c-sidebar-dark c-sidebar-lg-show c-sidebar-fixed"
+>
+  <div
+    class="c-sidebar-brand"
+  >
+    <span
+      class="ml-2 font-weight-bold"
+    >
+      やそスポーツクラブ
+    </span>
+  </div>
+   
+  <ul
+    class="c-sidebar-nav h-100 ps"
+    data-v-3738b722=""
+    style="position: relative;"
+  >
+    <li
+      class="c-sidebar-nav-item"
+      data-v-3738b722=""
+    >
+      <a
+        aria-current="page"
+        class="router-link-exact-active c-active c-sidebar-nav-link"
+        href="/"
+        target="_self"
+      >
+        <!---->
+        <!---->
+         ホーム 
+        <!---->
+      </a>
+    </li>
+     
+    <li
+      class="c-sidebar-nav-item"
+      data-v-3738b722=""
+    >
+      <a
+        class="c-sidebar-nav-link"
+        href="/schedule/list"
+        target="_self"
+      >
+        <!---->
+        <!---->
+         練習予定 
+        <!---->
+      </a>
+    </li>
+     
+    <!---->
+    <div
+      class="ps__rail-x"
+      style="left: 0px; top: 0px;"
+    >
+      <div
+        class="ps__thumb-x"
+        style="left: 0px; width: 0px;"
+        tabindex="0"
+      />
+    </div>
+    <div
+      class="ps__rail-y"
+      style="top: 0px; left: 0px;"
+    >
+      <div
+        class="ps__thumb-y"
+        style="top: 0px; height: 0px;"
+        tabindex="0"
+      />
+    </div>
+  </ul>
+</div>
+`;
+
+exports[`MySidebar 認証なし 表示 1`] = `
+<div
+  class="c-sidebar c-sidebar-dark c-sidebar-lg-show c-sidebar-fixed"
+>
+  <div
+    class="c-sidebar-brand"
+  >
+    <span
+      class="ml-2 font-weight-bold"
+    >
+      やそスポーツクラブ
+    </span>
+  </div>
+   
+  <ul
+    class="c-sidebar-nav h-100 ps"
+    data-v-3738b722=""
+    style="position: relative;"
+  >
+    <li
+      class="c-sidebar-nav-item"
+      data-v-3738b722=""
+    >
+      <a
+        aria-current="page"
+        class="router-link-exact-active c-active c-sidebar-nav-link"
+        href="/"
+        target="_self"
+      >
+        <!---->
+        <!---->
+         ホーム 
+        <!---->
+      </a>
+    </li>
+     
+    <li
+      class="c-sidebar-nav-item"
+      data-v-3738b722=""
+    >
+      <a
+        class="c-sidebar-nav-link"
+        href="/schedule/list"
+        target="_self"
+      >
+        <!---->
+        <!---->
+         練習予定 
+        <!---->
+      </a>
+    </li>
+     
+    <!---->
+    <div
+      class="ps__rail-x"
+      style="left: 0px; top: 0px;"
+    >
+      <div
+        class="ps__thumb-x"
+        style="left: 0px; width: 0px;"
+        tabindex="0"
+      />
+    </div>
+    <div
+      class="ps__rail-y"
+      style="top: 0px; left: 0px;"
+    >
+      <div
+        class="ps__thumb-y"
+        style="top: 0px; height: 0px;"
+        tabindex="0"
+      />
+    </div>
+  </ul>
+</div>
+`;

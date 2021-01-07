@@ -1,0 +1,346 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListModalBulk マウント items：あり 表示 モーダル全体表示 1`] = `
+<div>
+  <div
+    class="modal overflow-auto fade d-block modal-primary"
+    role="dialog"
+    tabindex="-1"
+  >
+    <div
+      class="modal-dialog modal-dialog-centered"
+      role="document"
+    >
+      <div
+        class="modal-content"
+      >
+        <header
+          class="modal-header"
+        >
+          <h5
+            class="modal-title"
+          >
+             一括変更 
+          </h5>
+          <button
+            aria-label="Close"
+            class="close"
+            type="button"
+          >
+            ×
+          </button>
+        </header>
+        <div
+          class="modal-body"
+        >
+          <button
+            class="btn show-target btn-outline-info"
+            type="button"
+          >
+            
+    一括変更対象
+  
+          </button>
+           
+          <div
+            class=""
+            style="height: 0px; overflow: hidden; transition: all 400ms ease-in-out;"
+          >
+            <div
+              data-v-5f7284b9=""
+            >
+              <!---->
+              <div
+                class="position-relative table-responsive"
+                data-v-5f7284b9=""
+              >
+                <table
+                  class="table mt-2 mb-0 text-nowrap"
+                  data-v-5f7284b9=""
+                >
+                  <thead
+                    data-v-5f7284b9=""
+                  >
+                    <!---->
+                    <!---->
+                  </thead>
+                  <tbody
+                    class="position-relative"
+                    data-v-5f7284b9=""
+                  >
+                    <tr
+                      data-v-5f7284b9=""
+                    >
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        <span
+                          data-v-5f7284b9=""
+                        >
+                          
+  2020/12/05
+  
+                          <span
+                            class="text-primary"
+                          >
+                            
+    (土)
+  
+                          </span>
+                        </span>
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          10:00 - 13:00
+        
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          多目的ホール＠公民館1F
+        
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          体験会
+        
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          書類控取得
+        
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          未定
+        
+                      </td>
+                    </tr>
+                    <!---->
+                    <tr
+                      data-v-5f7284b9=""
+                    >
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        <span
+                          data-v-5f7284b9=""
+                        >
+                          
+  2020/12/05
+  
+                          <span
+                            class="text-primary"
+                          >
+                            
+    (土)
+  
+                          </span>
+                        </span>
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          13:00 - 16:00
+        
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          体育館＠公民館別棟
+        
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          上級者練習
+        
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          書類控取得
+        
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          未定
+        
+                      </td>
+                    </tr>
+                    <!---->
+                    <tr
+                      data-v-5f7284b9=""
+                    >
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        <span
+                          data-v-5f7284b9=""
+                        >
+                          
+  2020/12/06
+  
+                          <span
+                            class="text-danger"
+                          >
+                            
+    (日)
+  
+                          </span>
+                        </span>
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          10:00 - 13:00
+        
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          体育館＠公民館別棟
+        
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          初心者練習
+        
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          キャンセル
+        
+                      </td>
+                      <td
+                        data-v-5f7284b9=""
+                      >
+                        
+          中止
+        
+                      </td>
+                    </tr>
+                    <!---->
+                    <!---->
+                  </tbody>
+                  <!---->
+                </table>
+                <!---->
+              </div>
+              <!---->
+            </div>
+             
+            <button
+              class="btn hide-target btn-outline-info"
+              type="button"
+            >
+              
+      非表示
+    
+            </button>
+          </div>
+           
+          <hr
+            class="mt-2 mb-3"
+          />
+           
+          <div>
+            <div
+              class="form-group form-row"
+              role="group"
+            >
+              <label
+                class="col-form-label col-sm-3"
+                for="schedule_status_id"
+              >
+                 公開ステータス 
+              </label>
+              <div
+                class="col-sm-9"
+              >
+                <!---->
+                <select
+                  class="form-control"
+                  id="schedule_status_id"
+                >
+                  <!---->
+                  <option
+                    data-key="0"
+                    value=""
+                  >
+                      
+                  </option>
+                  <option
+                    data-key="1"
+                    value="1"
+                  >
+                     未定 
+                  </option>
+                  <option
+                    data-key="2"
+                    value="2"
+                  >
+                     確定 
+                  </option>
+                  <option
+                    data-key="3"
+                    value="3"
+                  >
+                     中止 
+                  </option>
+                  <option
+                    data-key="4"
+                    value="4"
+                  >
+                     非公開 
+                  </option>
+                </select>
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </div>
+          </div>
+        </div>
+        <footer
+          class="modal-footer"
+        >
+          <button
+            class="btn btn-save btn-primary"
+            type="submit"
+          >
+            
+      保存
+    
+          </button>
+        </footer>
+      </div>
+    </div>
+  </div>
+  <div
+    class="modal-backdrop fade"
+  />
+</div>
+`;

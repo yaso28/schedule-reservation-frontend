@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyNumber オプション max 属性追加 1`] = `
+Object {
+  "class": "form-control",
+  "id": "sample_field",
+  "max": "100",
+  "step": "1",
+  "type": "number",
+}
+`;
+
+exports[`MyNumber オプション min 属性追加 1`] = `
+Object {
+  "class": "form-control",
+  "id": "sample_field",
+  "min": "0",
+  "step": "1",
+  "type": "number",
+}
+`;
+
+exports[`MyNumber オプション step 属性追加 1`] = `
+Object {
+  "class": "form-control",
+  "id": "sample_field",
+  "step": "10",
+  "type": "number",
+}
+`;
+
+exports[`MyNumber バリデーションエラー 表示 1`] = `
+<div
+  class="form-group form-row"
+  role="group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for="sample_field"
+  >
+     サンプル 
+  </label>
+  <div
+    class="col-sm-9"
+  >
+    <!---->
+    <input
+      class="form-control is-invalid"
+      id="sample_field"
+      step="1"
+      type="number"
+    />
+    <!---->
+    <!---->
+    <div
+      class="invalid-feedback"
+    >
+      エラーです
+    </div>
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`MyNumber 通常 表示 1`] = `
+<div
+  class="form-group form-row"
+  role="group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for="sample_field"
+  >
+     サンプル 
+  </label>
+  <div
+    class="col-sm-9"
+  >
+    <!---->
+    <input
+      class="form-control"
+      id="sample_field"
+      step="1"
+      type="number"
+    />
+    <!---->
+    <!---->
+    <!---->
+    <!---->
+  </div>
+</div>
+`;

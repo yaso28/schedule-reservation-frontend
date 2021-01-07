@@ -1,0 +1,653 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List write権限：あり マウント metaタグ 1`] = `
+NodeList [
+  <meta
+    content="noindex"
+    data-vmid="robots"
+    data-vue-meta="2"
+    name="robots"
+  />,
+]
+`;
+
+exports[`List write権限：あり マウント titleタグ 1`] = `"やそスポーツクラブ | 月一覧"`;
+
+exports[`List write権限：あり マウント データ取得：成功 ページ全体表示 1`] = `
+<div>
+  <h1>
+    月一覧
+  </h1>
+   
+  <div
+    class="card"
+  >
+    <header
+      class="card-header"
+    >
+      <form
+        class=""
+      >
+        <div
+          class="form-row form-group mb-0"
+        >
+          <div
+            class="form-inline col-sm-6"
+          >
+            <select
+              class="form-control"
+              id="search-year"
+            >
+              <option
+                label="2018"
+                value="2018"
+              />
+              <option
+                label="2019"
+                value="2019"
+              />
+              <option
+                label="2020"
+                value="2020"
+              />
+              <option
+                label="2021"
+                value="2021"
+              />
+            </select>
+             
+            <label
+              class="m-2"
+              for="search-year"
+            >
+              
+              年
+            
+            </label>
+             
+            <select
+              class="form-control"
+              id="search-month"
+            >
+              <option
+                label="1"
+                value="1"
+              />
+              <option
+                label="2"
+                value="2"
+              />
+              <option
+                label="3"
+                value="3"
+              />
+              <option
+                label="4"
+                value="4"
+              />
+              <option
+                label="5"
+                value="5"
+              />
+              <option
+                label="6"
+                value="6"
+              />
+              <option
+                label="7"
+                value="7"
+              />
+              <option
+                label="8"
+                value="8"
+              />
+              <option
+                label="9"
+                value="9"
+              />
+              <option
+                label="10"
+                value="10"
+              />
+              <option
+                label="11"
+                value="11"
+              />
+              <option
+                label="12"
+                value="12"
+              />
+            </select>
+             
+            <label
+              class="m-2"
+              for="search-month"
+            >
+              
+              月以降
+            
+            </label>
+          </div>
+           
+          <div
+            class="col-sm-6"
+          >
+            <button
+              class="btn btn-info"
+              type="submit"
+            >
+              
+              検索
+            
+            </button>
+          </div>
+        </div>
+      </form>
+    </header>
+     
+    <div
+      class="card-body"
+    >
+      <div
+        data-v-5f7284b9=""
+      >
+        <!---->
+        <div
+          class="position-relative table-responsive"
+          data-v-5f7284b9=""
+        >
+          <table
+            class="table"
+            data-v-5f7284b9=""
+          >
+            <thead
+              data-v-5f7284b9=""
+            >
+              <tr
+                data-v-5f7284b9=""
+              >
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    名称
+                  </div>
+                  <!---->
+                </th>
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    予約ステータス
+                  </div>
+                  <!---->
+                </th>
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    公開ステータス
+                  </div>
+                  <!---->
+                </th>
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    
+                  </div>
+                  <!---->
+                </th>
+              </tr>
+              <!---->
+            </thead>
+            <tbody
+              class="position-relative"
+              data-v-5f7284b9=""
+            >
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  class=""
+                  data-v-5f7284b9=""
+                >
+                   2020年11月 
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            料金支払済
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            確定
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  <a
+                    class="btn btn-outline-primary"
+                    data-v-5f7284b9=""
+                    href="/reservation/schedule/list?from=2020-11-01&to=2020-11-30"
+                    target="_self"
+                  >
+                    
+              練習予定
+            
+                  </a>
+                   
+                  <a
+                    class="btn btn-outline-primary"
+                    data-v-5f7284b9=""
+                    href="/reservation/reservation/list?from=2020-11-01&to=2020-11-30"
+                    target="_self"
+                  >
+                    
+              会場予約
+            
+                  </a>
+                   
+                  <a
+                    class="btn btn-outline-primary"
+                    data-v-5f7284b9=""
+                    href="/reservation/month/send/2"
+                    target="_self"
+                  >
+                    
+              メール送信
+            
+                  </a>
+                </td>
+              </tr>
+              <!---->
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  class=""
+                  data-v-5f7284b9=""
+                >
+                   2020年12月 
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            電話予約済
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            未定
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  <a
+                    class="btn btn-outline-primary"
+                    data-v-5f7284b9=""
+                    href="/reservation/schedule/list?from=2020-12-01&to=2020-12-31"
+                    target="_self"
+                  >
+                    
+              練習予定
+            
+                  </a>
+                   
+                  <a
+                    class="btn btn-outline-primary"
+                    data-v-5f7284b9=""
+                    href="/reservation/reservation/list?from=2020-12-01&to=2020-12-31"
+                    target="_self"
+                  >
+                    
+              会場予約
+            
+                  </a>
+                   
+                  <a
+                    class="btn btn-outline-primary"
+                    data-v-5f7284b9=""
+                    href="/reservation/month/send/3"
+                    target="_self"
+                  >
+                    
+              メール送信
+            
+                  </a>
+                </td>
+              </tr>
+              <!---->
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  class=""
+                  data-v-5f7284b9=""
+                >
+                   2021年01月 
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            未予約
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            未定
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  <a
+                    class="btn btn-outline-primary"
+                    data-v-5f7284b9=""
+                    href="/reservation/schedule/list?from=2021-01-01&to=2021-01-31"
+                    target="_self"
+                  >
+                    
+              練習予定
+            
+                  </a>
+                   
+                  <a
+                    class="btn btn-outline-primary"
+                    data-v-5f7284b9=""
+                    href="/reservation/reservation/list?from=2021-01-01&to=2021-01-31"
+                    target="_self"
+                  >
+                    
+              会場予約
+            
+                  </a>
+                   
+                  <a
+                    class="btn btn-outline-primary"
+                    data-v-5f7284b9=""
+                    href="/reservation/month/send/4"
+                    target="_self"
+                  >
+                    
+              メール送信
+            
+                  </a>
+                </td>
+              </tr>
+              <!---->
+              <!---->
+            </tbody>
+            <!---->
+          </table>
+          <!---->
+        </div>
+        <!---->
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`List write権限：あり マウント データ取得：成功 新しい年月を指定して検索 検索結果表示 1`] = `
+<tbody
+  class="position-relative"
+  data-v-5f7284b9=""
+>
+  <tr
+    data-v-5f7284b9=""
+  >
+    <td
+      class=""
+      data-v-5f7284b9=""
+    >
+       2021年01月 
+    </td>
+    <td
+      data-v-5f7284b9=""
+    >
+      
+            未予約
+          
+    </td>
+    <td
+      data-v-5f7284b9=""
+    >
+      
+            未定
+          
+    </td>
+    <td
+      data-v-5f7284b9=""
+    >
+      <a
+        class="btn btn-outline-primary"
+        data-v-5f7284b9=""
+        href="/reservation/schedule/list?from=2021-01-01&to=2021-01-31"
+        target="_self"
+      >
+        
+              練習予定
+            
+      </a>
+       
+      <a
+        class="btn btn-outline-primary"
+        data-v-5f7284b9=""
+        href="/reservation/reservation/list?from=2021-01-01&to=2021-01-31"
+        target="_self"
+      >
+        
+              会場予約
+            
+      </a>
+       
+      <a
+        class="btn btn-outline-primary"
+        data-v-5f7284b9=""
+        href="/reservation/month/send/4"
+        target="_self"
+      >
+        
+              メール送信
+            
+      </a>
+    </td>
+  </tr>
+  <!---->
+  <!---->
+</tbody>
+`;
+
+exports[`List write権限：なし 検索結果表示 1`] = `
+<tbody
+  class="position-relative"
+  data-v-5f7284b9=""
+>
+  <tr
+    data-v-5f7284b9=""
+  >
+    <td
+      class=""
+      data-v-5f7284b9=""
+    >
+       2020年11月 
+    </td>
+    <td
+      data-v-5f7284b9=""
+    >
+      
+            料金支払済
+          
+    </td>
+    <td
+      data-v-5f7284b9=""
+    >
+      
+            確定
+          
+    </td>
+    <td
+      data-v-5f7284b9=""
+    >
+      <a
+        class="btn btn-outline-primary"
+        data-v-5f7284b9=""
+        href="/reservation/schedule/list?from=2020-11-01&to=2020-11-30"
+        target="_self"
+      >
+        
+              練習予定
+            
+      </a>
+       
+      <a
+        class="btn btn-outline-primary"
+        data-v-5f7284b9=""
+        href="/reservation/reservation/list?from=2020-11-01&to=2020-11-30"
+        target="_self"
+      >
+        
+              会場予約
+            
+      </a>
+       
+      <!---->
+    </td>
+  </tr>
+  <!---->
+  <tr
+    data-v-5f7284b9=""
+  >
+    <td
+      class=""
+      data-v-5f7284b9=""
+    >
+       2020年12月 
+    </td>
+    <td
+      data-v-5f7284b9=""
+    >
+      
+            電話予約済
+          
+    </td>
+    <td
+      data-v-5f7284b9=""
+    >
+      
+            未定
+          
+    </td>
+    <td
+      data-v-5f7284b9=""
+    >
+      <a
+        class="btn btn-outline-primary"
+        data-v-5f7284b9=""
+        href="/reservation/schedule/list?from=2020-12-01&to=2020-12-31"
+        target="_self"
+      >
+        
+              練習予定
+            
+      </a>
+       
+      <a
+        class="btn btn-outline-primary"
+        data-v-5f7284b9=""
+        href="/reservation/reservation/list?from=2020-12-01&to=2020-12-31"
+        target="_self"
+      >
+        
+              会場予約
+            
+      </a>
+       
+      <!---->
+    </td>
+  </tr>
+  <!---->
+  <tr
+    data-v-5f7284b9=""
+  >
+    <td
+      class=""
+      data-v-5f7284b9=""
+    >
+       2021年01月 
+    </td>
+    <td
+      data-v-5f7284b9=""
+    >
+      
+            未予約
+          
+    </td>
+    <td
+      data-v-5f7284b9=""
+    >
+      
+            未定
+          
+    </td>
+    <td
+      data-v-5f7284b9=""
+    >
+      <a
+        class="btn btn-outline-primary"
+        data-v-5f7284b9=""
+        href="/reservation/schedule/list?from=2021-01-01&to=2021-01-31"
+        target="_self"
+      >
+        
+              練習予定
+            
+      </a>
+       
+      <a
+        class="btn btn-outline-primary"
+        data-v-5f7284b9=""
+        href="/reservation/reservation/list?from=2021-01-01&to=2021-01-31"
+        target="_self"
+      >
+        
+              会場予約
+            
+      </a>
+       
+      <!---->
+    </td>
+  </tr>
+  <!---->
+  <!---->
+</tbody>
+`;

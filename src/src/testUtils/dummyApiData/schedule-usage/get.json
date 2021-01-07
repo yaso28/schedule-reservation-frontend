@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "\u901a\u5e38\u7df4\u7fd2",
+  "is_public": true,
+  "reservation_organization_id": 1,
+  "reservation_organization": {
+    "id": 1,
+    "name": "\u4e00\u822c\u56e3\u4f53",
+    "abbreviation": "\u4e00\u822c",
+    "registration_number": "4615-821760"
+  }
+}

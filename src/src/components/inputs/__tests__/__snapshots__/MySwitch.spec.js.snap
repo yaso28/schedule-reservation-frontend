@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MySwitch バリデーションエラー 表示 1`] = `
+<div
+  class="form-row form-group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for=""
+  >
+    
+    サンプル
+  
+  </label>
+   
+  <div
+    class="col-sm-9"
+  >
+    <div
+      class="my-input-wrapper is-invalid"
+    >
+      <label
+        class="c-switch form-check-label c-switch-primary c-switch-label"
+      >
+        <input
+          class="c-switch-input form-check-input"
+          id="sample_field"
+          type="checkbox"
+        />
+        <span
+          class="c-switch-slider"
+          data-checked="✓"
+          data-unchecked="✕"
+        />
+      </label>
+    </div>
+     
+    <div
+      class="invalid-feedback"
+    >
+      
+      エラーです
+    
+    </div>
+  </div>
+</div>
+`;
+
+exports[`MySwitch 通常 表示 1`] = `
+<div
+  class="form-row form-group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for=""
+  >
+    
+    サンプル
+  
+  </label>
+   
+  <div
+    class="col-sm-9"
+  >
+    <div
+      class="my-input-wrapper"
+    >
+      <label
+        class="c-switch form-check-label c-switch-primary c-switch-label"
+      >
+        <input
+          class="c-switch-input form-check-input"
+          id="sample_field"
+          type="checkbox"
+        />
+        <span
+          class="c-switch-slider"
+          data-checked="✓"
+          data-unchecked="✕"
+        />
+      </label>
+    </div>
+     
+    <!---->
+  </div>
+</div>
+`;

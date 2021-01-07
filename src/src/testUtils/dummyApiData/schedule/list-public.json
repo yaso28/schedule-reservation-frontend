@@ -1,0 +1,2027 @@
+[
+  {
+    "id": 55,
+    "ymd": "2020-12-26",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 5,
+    "schedule_status_id": 2,
+    "schedule_status": {
+      "id": 2,
+      "name": "\u78ba\u5b9a",
+      "display_type": null,
+      "is_public": true,
+      "bulk_change_mode": 2
+    }
+  },
+  {
+    "id": 54,
+    "ymd": "2020-12-26",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 2,
+    "schedule_place": {
+      "id": 2,
+      "name": "\u591a\u76ee\u7684\u30db\u30fc\u30eb\uff20\u516c\u6c11\u99281F",
+      "abbreviation": "\u591a\u76ee\u7684\u30db\u30fc\u30eb",
+      "price_per_hour": 780
+    },
+    "schedule_usage_id": 3,
+    "schedule_usage": {
+      "id": 3,
+      "name": "\u4f53\u9a13\u4f1a",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": null,
+    "schedule_timetable": null,
+    "reservation_status_id": 5,
+    "schedule_status_id": 2,
+    "schedule_status": {
+      "id": 2,
+      "name": "\u78ba\u5b9a",
+      "display_type": null,
+      "is_public": true,
+      "bulk_change_mode": 2
+    }
+  },
+  {
+    "id": 56,
+    "ymd": "2020-12-26",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 5,
+    "schedule_status_id": 2,
+    "schedule_status": {
+      "id": 2,
+      "name": "\u78ba\u5b9a",
+      "display_type": null,
+      "is_public": true,
+      "bulk_change_mode": 2
+    }
+  },
+  {
+    "id": 58,
+    "ymd": "2020-12-27",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 7,
+    "schedule_status_id": 3,
+    "schedule_status": {
+      "id": 3,
+      "name": "\u4e2d\u6b62",
+      "display_type": "danger",
+      "is_public": true,
+      "bulk_change_mode": 0
+    }
+  },
+  {
+    "id": 57,
+    "ymd": "2020-12-27",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 5,
+    "schedule_status_id": 2,
+    "schedule_status": {
+      "id": 2,
+      "name": "\u78ba\u5b9a",
+      "display_type": null,
+      "is_public": true,
+      "bulk_change_mode": 2
+    }
+  },
+  {
+    "id": 60,
+    "ymd": "2020-12-28",
+    "begins_at": "10:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 3,
+    "schedule_timetable": {
+      "id": 3,
+      "name": "\u4e00\u65e5",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-\n3\u56de\u76ee\uff1a13:00-\n4\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 5,
+    "schedule_status_id": 2,
+    "schedule_status": {
+      "id": 2,
+      "name": "\u78ba\u5b9a",
+      "display_type": null,
+      "is_public": true,
+      "bulk_change_mode": 2
+    }
+  },
+  {
+    "id": 62,
+    "ymd": "2021-01-02",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 2,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 61,
+    "ymd": "2021-01-02",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 2,
+    "schedule_place": {
+      "id": 2,
+      "name": "\u591a\u76ee\u7684\u30db\u30fc\u30eb\uff20\u516c\u6c11\u99281F",
+      "abbreviation": "\u591a\u76ee\u7684\u30db\u30fc\u30eb",
+      "price_per_hour": 780
+    },
+    "schedule_usage_id": 3,
+    "schedule_usage": {
+      "id": 3,
+      "name": "\u4f53\u9a13\u4f1a",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": null,
+    "schedule_timetable": null,
+    "reservation_status_id": 4,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 63,
+    "ymd": "2021-01-02",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 4,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 65,
+    "ymd": "2021-01-03",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 7,
+    "schedule_status_id": 3,
+    "schedule_status": {
+      "id": 3,
+      "name": "\u4e2d\u6b62",
+      "display_type": "danger",
+      "is_public": true,
+      "bulk_change_mode": 0
+    }
+  },
+  {
+    "id": 64,
+    "ymd": "2021-01-03",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 2,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 67,
+    "ymd": "2021-01-04",
+    "begins_at": "10:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 3,
+    "schedule_timetable": {
+      "id": 3,
+      "name": "\u4e00\u65e5",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-\n3\u56de\u76ee\uff1a13:00-\n4\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 2,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 69,
+    "ymd": "2021-01-09",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 2,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 68,
+    "ymd": "2021-01-09",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 2,
+    "schedule_place": {
+      "id": 2,
+      "name": "\u591a\u76ee\u7684\u30db\u30fc\u30eb\uff20\u516c\u6c11\u99281F",
+      "abbreviation": "\u591a\u76ee\u7684\u30db\u30fc\u30eb",
+      "price_per_hour": 780
+    },
+    "schedule_usage_id": 3,
+    "schedule_usage": {
+      "id": 3,
+      "name": "\u4f53\u9a13\u4f1a",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": null,
+    "schedule_timetable": null,
+    "reservation_status_id": 4,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 70,
+    "ymd": "2021-01-09",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 4,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 72,
+    "ymd": "2021-01-10",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 7,
+    "schedule_status_id": 3,
+    "schedule_status": {
+      "id": 3,
+      "name": "\u4e2d\u6b62",
+      "display_type": "danger",
+      "is_public": true,
+      "bulk_change_mode": 0
+    }
+  },
+  {
+    "id": 71,
+    "ymd": "2021-01-10",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 2,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 74,
+    "ymd": "2021-01-11",
+    "begins_at": "10:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 3,
+    "schedule_timetable": {
+      "id": 3,
+      "name": "\u4e00\u65e5",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-\n3\u56de\u76ee\uff1a13:00-\n4\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 2,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 76,
+    "ymd": "2021-01-16",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 2,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 75,
+    "ymd": "2021-01-16",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 2,
+    "schedule_place": {
+      "id": 2,
+      "name": "\u591a\u76ee\u7684\u30db\u30fc\u30eb\uff20\u516c\u6c11\u99281F",
+      "abbreviation": "\u591a\u76ee\u7684\u30db\u30fc\u30eb",
+      "price_per_hour": 780
+    },
+    "schedule_usage_id": 3,
+    "schedule_usage": {
+      "id": 3,
+      "name": "\u4f53\u9a13\u4f1a",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": null,
+    "schedule_timetable": null,
+    "reservation_status_id": 4,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 77,
+    "ymd": "2021-01-16",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 4,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 79,
+    "ymd": "2021-01-17",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 7,
+    "schedule_status_id": 3,
+    "schedule_status": {
+      "id": 3,
+      "name": "\u4e2d\u6b62",
+      "display_type": "danger",
+      "is_public": true,
+      "bulk_change_mode": 0
+    }
+  },
+  {
+    "id": 78,
+    "ymd": "2021-01-17",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 2,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 81,
+    "ymd": "2021-01-18",
+    "begins_at": "10:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 3,
+    "schedule_timetable": {
+      "id": 3,
+      "name": "\u4e00\u65e5",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-\n3\u56de\u76ee\uff1a13:00-\n4\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 2,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 83,
+    "ymd": "2021-01-23",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 2,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 82,
+    "ymd": "2021-01-23",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 2,
+    "schedule_place": {
+      "id": 2,
+      "name": "\u591a\u76ee\u7684\u30db\u30fc\u30eb\uff20\u516c\u6c11\u99281F",
+      "abbreviation": "\u591a\u76ee\u7684\u30db\u30fc\u30eb",
+      "price_per_hour": 780
+    },
+    "schedule_usage_id": 3,
+    "schedule_usage": {
+      "id": 3,
+      "name": "\u4f53\u9a13\u4f1a",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": null,
+    "schedule_timetable": null,
+    "reservation_status_id": 4,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 84,
+    "ymd": "2021-01-23",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 4,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 86,
+    "ymd": "2021-01-24",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 7,
+    "schedule_status_id": 3,
+    "schedule_status": {
+      "id": 3,
+      "name": "\u4e2d\u6b62",
+      "display_type": "danger",
+      "is_public": true,
+      "bulk_change_mode": 0
+    }
+  },
+  {
+    "id": 85,
+    "ymd": "2021-01-24",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 2,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 88,
+    "ymd": "2021-01-25",
+    "begins_at": "10:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 3,
+    "schedule_timetable": {
+      "id": 3,
+      "name": "\u4e00\u65e5",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-\n3\u56de\u76ee\uff1a13:00-\n4\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 2,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 90,
+    "ymd": "2021-01-30",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 2,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 89,
+    "ymd": "2021-01-30",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 2,
+    "schedule_place": {
+      "id": 2,
+      "name": "\u591a\u76ee\u7684\u30db\u30fc\u30eb\uff20\u516c\u6c11\u99281F",
+      "abbreviation": "\u591a\u76ee\u7684\u30db\u30fc\u30eb",
+      "price_per_hour": 780
+    },
+    "schedule_usage_id": 3,
+    "schedule_usage": {
+      "id": 3,
+      "name": "\u4f53\u9a13\u4f1a",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": null,
+    "schedule_timetable": null,
+    "reservation_status_id": 4,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 91,
+    "ymd": "2021-01-30",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 4,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 93,
+    "ymd": "2021-01-31",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 7,
+    "schedule_status_id": 3,
+    "schedule_status": {
+      "id": 3,
+      "name": "\u4e2d\u6b62",
+      "display_type": "danger",
+      "is_public": true,
+      "bulk_change_mode": 0
+    }
+  },
+  {
+    "id": 92,
+    "ymd": "2021-01-31",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 2,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 95,
+    "ymd": "2021-02-01",
+    "begins_at": "10:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 3,
+    "schedule_timetable": {
+      "id": 3,
+      "name": "\u4e00\u65e5",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-\n3\u56de\u76ee\uff1a13:00-\n4\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 1,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 97,
+    "ymd": "2021-02-06",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 1,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 96,
+    "ymd": "2021-02-06",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 2,
+    "schedule_place": {
+      "id": 2,
+      "name": "\u591a\u76ee\u7684\u30db\u30fc\u30eb\uff20\u516c\u6c11\u99281F",
+      "abbreviation": "\u591a\u76ee\u7684\u30db\u30fc\u30eb",
+      "price_per_hour": 780
+    },
+    "schedule_usage_id": 3,
+    "schedule_usage": {
+      "id": 3,
+      "name": "\u4f53\u9a13\u4f1a",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": null,
+    "schedule_timetable": null,
+    "reservation_status_id": 3,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 98,
+    "ymd": "2021-02-06",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 3,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 100,
+    "ymd": "2021-02-07",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 7,
+    "schedule_status_id": 3,
+    "schedule_status": {
+      "id": 3,
+      "name": "\u4e2d\u6b62",
+      "display_type": "danger",
+      "is_public": true,
+      "bulk_change_mode": 0
+    }
+  },
+  {
+    "id": 99,
+    "ymd": "2021-02-07",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 1,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 102,
+    "ymd": "2021-02-08",
+    "begins_at": "10:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 3,
+    "schedule_timetable": {
+      "id": 3,
+      "name": "\u4e00\u65e5",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-\n3\u56de\u76ee\uff1a13:00-\n4\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 1,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 104,
+    "ymd": "2021-02-13",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 1,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 103,
+    "ymd": "2021-02-13",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 2,
+    "schedule_place": {
+      "id": 2,
+      "name": "\u591a\u76ee\u7684\u30db\u30fc\u30eb\uff20\u516c\u6c11\u99281F",
+      "abbreviation": "\u591a\u76ee\u7684\u30db\u30fc\u30eb",
+      "price_per_hour": 780
+    },
+    "schedule_usage_id": 3,
+    "schedule_usage": {
+      "id": 3,
+      "name": "\u4f53\u9a13\u4f1a",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": null,
+    "schedule_timetable": null,
+    "reservation_status_id": 3,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 105,
+    "ymd": "2021-02-13",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 3,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 107,
+    "ymd": "2021-02-14",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 7,
+    "schedule_status_id": 3,
+    "schedule_status": {
+      "id": 3,
+      "name": "\u4e2d\u6b62",
+      "display_type": "danger",
+      "is_public": true,
+      "bulk_change_mode": 0
+    }
+  },
+  {
+    "id": 106,
+    "ymd": "2021-02-14",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 1,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 109,
+    "ymd": "2021-02-15",
+    "begins_at": "10:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 3,
+    "schedule_timetable": {
+      "id": 3,
+      "name": "\u4e00\u65e5",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-\n3\u56de\u76ee\uff1a13:00-\n4\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 1,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 111,
+    "ymd": "2021-02-20",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 1,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 110,
+    "ymd": "2021-02-20",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 2,
+    "schedule_place": {
+      "id": 2,
+      "name": "\u591a\u76ee\u7684\u30db\u30fc\u30eb\uff20\u516c\u6c11\u99281F",
+      "abbreviation": "\u591a\u76ee\u7684\u30db\u30fc\u30eb",
+      "price_per_hour": 780
+    },
+    "schedule_usage_id": 3,
+    "schedule_usage": {
+      "id": 3,
+      "name": "\u4f53\u9a13\u4f1a",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": null,
+    "schedule_timetable": null,
+    "reservation_status_id": 3,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 112,
+    "ymd": "2021-02-20",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 3,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 114,
+    "ymd": "2021-02-21",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 7,
+    "schedule_status_id": 3,
+    "schedule_status": {
+      "id": 3,
+      "name": "\u4e2d\u6b62",
+      "display_type": "danger",
+      "is_public": true,
+      "bulk_change_mode": 0
+    }
+  },
+  {
+    "id": 113,
+    "ymd": "2021-02-21",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 1,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 116,
+    "ymd": "2021-02-22",
+    "begins_at": "10:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 3,
+    "schedule_timetable": {
+      "id": 3,
+      "name": "\u4e00\u65e5",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-\n3\u56de\u76ee\uff1a13:00-\n4\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 1,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 118,
+    "ymd": "2021-02-27",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 1,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 117,
+    "ymd": "2021-02-27",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 2,
+    "schedule_place": {
+      "id": 2,
+      "name": "\u591a\u76ee\u7684\u30db\u30fc\u30eb\uff20\u516c\u6c11\u99281F",
+      "abbreviation": "\u591a\u76ee\u7684\u30db\u30fc\u30eb",
+      "price_per_hour": 780
+    },
+    "schedule_usage_id": 3,
+    "schedule_usage": {
+      "id": 3,
+      "name": "\u4f53\u9a13\u4f1a",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": null,
+    "schedule_timetable": null,
+    "reservation_status_id": 3,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 119,
+    "ymd": "2021-02-27",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 3,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  },
+  {
+    "id": 121,
+    "ymd": "2021-02-28",
+    "begins_at": "10:00",
+    "ends_at": "13:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 1,
+    "schedule_usage": {
+      "id": 1,
+      "name": "\u521d\u5fc3\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 2
+    },
+    "schedule_timetable_id": 1,
+    "schedule_timetable": {
+      "id": 1,
+      "name": "\u5348\u524d",
+      "details": "1\u56de\u76ee\uff1a10:00-\n2\u56de\u76ee\uff1a11:30-"
+    },
+    "reservation_status_id": 7,
+    "schedule_status_id": 3,
+    "schedule_status": {
+      "id": 3,
+      "name": "\u4e2d\u6b62",
+      "display_type": "danger",
+      "is_public": true,
+      "bulk_change_mode": 0
+    }
+  },
+  {
+    "id": 120,
+    "ymd": "2021-02-28",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1
+    },
+    "schedule_timetable_id": 2,
+    "schedule_timetable": {
+      "id": 2,
+      "name": "\u5348\u5f8c",
+      "details": "1\u56de\u76ee\uff1a13:00-\n2\u56de\u76ee\uff1a14:30-"
+    },
+    "reservation_status_id": 1,
+    "schedule_status_id": 1,
+    "schedule_status": {
+      "id": 1,
+      "name": "\u672a\u5b9a",
+      "display_type": "warning",
+      "is_public": true,
+      "bulk_change_mode": 1
+    }
+  }
+]

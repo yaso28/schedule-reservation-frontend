@@ -1,0 +1,1682 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List 通常 マウント metaタグ 1`] = `
+NodeList [
+  <meta
+    content="やそスポーツクラブの練習予定一覧です。"
+    data-vmid="description"
+    data-vue-meta="2"
+    name="description"
+  />,
+]
+`;
+
+exports[`List 通常 マウント titleタグ 1`] = `"やそスポーツクラブ | 練習予定"`;
+
+exports[`List 通常 マウント データ取得：成功 ページ全体表示 1`] = `
+<div>
+  <h1>
+    練習予定
+  </h1>
+   
+  <div
+    class="card"
+  >
+    <header
+      class="card-header"
+    >
+      <div
+        class="header-buttons"
+      >
+        <button
+          class="btn btn-filter-show btn-outline-info"
+          type="button"
+        >
+          
+          絞り込み
+        
+        </button>
+      </div>
+       
+      <div
+        class="form-filter mt-2"
+        style="display: none;"
+      >
+        <div
+          class="form-row form-group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="ymdFrom"
+          >
+            
+    日付（開始）
+  
+          </label>
+           
+          <div
+            class="col-sm-9"
+          >
+            <div
+              class="my-input-wrapper"
+            >
+              <div
+                class="d-flex"
+              >
+                <input
+                  class="form-control flex-grow-1"
+                  id="ymdFrom"
+                  type="date"
+                />
+                 
+                <button
+                  class="btn"
+                  type="button"
+                >
+                  <svg
+                    class="c-icon"
+                    role="img"
+                    viewBox="0 0 512 512"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      class="ci-primary"
+                      d="M96,472a23.82,23.82,0,0,0,23.579,24H392.421A23.82,23.82,0,0,0,416,472V152H96Zm32-288H384V464H128Z"
+                      fill="var(--ci-primary-color, currentColor)"
+                    />
+                    <rect
+                      class="ci-primary"
+                      fill="var(--ci-primary-color, currentColor)"
+                      height="200"
+                      width="32"
+                      x="168"
+                      y="216"
+                    />
+                    <rect
+                      class="ci-primary"
+                      fill="var(--ci-primary-color, currentColor)"
+                      height="200"
+                      width="32"
+                      x="240"
+                      y="216"
+                    />
+                    <rect
+                      class="ci-primary"
+                      fill="var(--ci-primary-color, currentColor)"
+                      height="200"
+                      width="32"
+                      x="312"
+                      y="216"
+                    />
+                    <path
+                      class="ci-primary"
+                      d="M328,88V40c0-13.458-9.488-24-21.6-24H205.6C193.488,16,184,26.542,184,40V88H64v32H448V88ZM216,48h80V88H216Z"
+                      fill="var(--ci-primary-color, currentColor)"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+             
+            <!---->
+          </div>
+        </div>
+         
+        <div
+          class="form-row form-group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="ymdTo"
+          >
+            
+    日付（終了）
+  
+          </label>
+           
+          <div
+            class="col-sm-9"
+          >
+            <div
+              class="my-input-wrapper"
+            >
+              <div
+                class="d-flex"
+              >
+                <input
+                  class="form-control flex-grow-1"
+                  id="ymdTo"
+                  type="date"
+                />
+                 
+                <button
+                  class="btn"
+                  type="button"
+                >
+                  <svg
+                    class="c-icon"
+                    role="img"
+                    viewBox="0 0 512 512"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      class="ci-primary"
+                      d="M96,472a23.82,23.82,0,0,0,23.579,24H392.421A23.82,23.82,0,0,0,416,472V152H96Zm32-288H384V464H128Z"
+                      fill="var(--ci-primary-color, currentColor)"
+                    />
+                    <rect
+                      class="ci-primary"
+                      fill="var(--ci-primary-color, currentColor)"
+                      height="200"
+                      width="32"
+                      x="168"
+                      y="216"
+                    />
+                    <rect
+                      class="ci-primary"
+                      fill="var(--ci-primary-color, currentColor)"
+                      height="200"
+                      width="32"
+                      x="240"
+                      y="216"
+                    />
+                    <rect
+                      class="ci-primary"
+                      fill="var(--ci-primary-color, currentColor)"
+                      height="200"
+                      width="32"
+                      x="312"
+                      y="216"
+                    />
+                    <path
+                      class="ci-primary"
+                      d="M328,88V40c0-13.458-9.488-24-21.6-24H205.6C193.488,16,184,26.542,184,40V88H64v32H448V88ZM216,48h80V88H216Z"
+                      fill="var(--ci-primary-color, currentColor)"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+             
+            <!---->
+          </div>
+        </div>
+         
+        <div
+          class="form-row form-group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for=""
+          >
+            
+    種別
+  
+          </label>
+           
+          <div
+            class="col-sm-9"
+          >
+            <div
+              class="my-input-wrapper"
+            >
+              <div>
+                <div
+                  class="form-check form-check-inline"
+                >
+                  <input
+                    class="form-check-input"
+                    id="usageIdList-1"
+                    type="checkbox"
+                    value="1"
+                  />
+                   
+                  <label
+                    class="form-check-label"
+                    for="usageIdList-1"
+                  >
+                    
+        通常練習
+      
+                  </label>
+                </div>
+                <div
+                  class="form-check form-check-inline"
+                >
+                  <input
+                    class="form-check-input"
+                    id="usageIdList-2"
+                    type="checkbox"
+                    value="2"
+                  />
+                   
+                  <label
+                    class="form-check-label"
+                    for="usageIdList-2"
+                  >
+                    
+        体験会
+      
+                  </label>
+                </div>
+              </div>
+            </div>
+             
+            <!---->
+          </div>
+        </div>
+         
+        <div
+          class="form-row form-group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for=""
+          >
+            
+    場所
+  
+          </label>
+           
+          <div
+            class="col-sm-9"
+          >
+            <div
+              class="my-input-wrapper"
+            >
+              <div>
+                <div
+                  class="form-check form-check-inline"
+                >
+                  <input
+                    class="form-check-input"
+                    id="placeIdList-1"
+                    type="checkbox"
+                    value="1"
+                  />
+                   
+                  <label
+                    class="form-check-label"
+                    for="placeIdList-1"
+                  >
+                    
+        体育館＠公民館別棟
+      
+                  </label>
+                </div>
+                <div
+                  class="form-check form-check-inline"
+                >
+                  <input
+                    class="form-check-input"
+                    id="placeIdList-2"
+                    type="checkbox"
+                    value="2"
+                  />
+                   
+                  <label
+                    class="form-check-label"
+                    for="placeIdList-2"
+                  >
+                    
+        多目的ホール＠公民館1F
+      
+                  </label>
+                </div>
+              </div>
+            </div>
+             
+            <!---->
+          </div>
+        </div>
+         
+        <div
+          class="form-row form-group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for=""
+          >
+            
+    ステータス
+  
+          </label>
+           
+          <div
+            class="col-sm-9"
+          >
+            <div
+              class="my-input-wrapper"
+            >
+              <div>
+                <div
+                  class="form-check form-check-inline"
+                >
+                  <input
+                    class="form-check-input"
+                    id="scheduleStatusIdList-1"
+                    type="checkbox"
+                    value="1"
+                  />
+                   
+                  <label
+                    class="form-check-label"
+                    for="scheduleStatusIdList-1"
+                  >
+                    <span
+                      class="badge badge-warning"
+                    >
+                      
+  未定
+
+                    </span>
+                  </label>
+                </div>
+                <div
+                  class="form-check form-check-inline"
+                >
+                  <input
+                    class="form-check-input"
+                    id="scheduleStatusIdList-2"
+                    type="checkbox"
+                    value="2"
+                  />
+                   
+                  <label
+                    class="form-check-label"
+                    for="scheduleStatusIdList-2"
+                  >
+                    <span
+                      class="badge badge-info"
+                    >
+                      
+  確定
+
+                    </span>
+                  </label>
+                </div>
+                <div
+                  class="form-check form-check-inline"
+                >
+                  <input
+                    class="form-check-input"
+                    id="scheduleStatusIdList-3"
+                    type="checkbox"
+                    value="3"
+                  />
+                   
+                  <label
+                    class="form-check-label"
+                    for="scheduleStatusIdList-3"
+                  >
+                    <span
+                      class="badge badge-danger"
+                    >
+                      
+  中止
+
+                    </span>
+                  </label>
+                </div>
+              </div>
+            </div>
+             
+            <!---->
+          </div>
+        </div>
+         
+        <button
+          class="btn btn-filter-reset btn-secondary"
+          type="button"
+        >
+          
+          クリア
+        
+        </button>
+         
+        <button
+          class="btn btn-filter-hide btn-outline-info"
+          type="button"
+        >
+          
+          非表示
+        
+        </button>
+      </div>
+    </header>
+     
+    <div
+      class="card-body"
+    >
+      <div
+        data-v-5f7284b9=""
+      >
+        <div
+          class="row my-2 mx-0"
+          data-v-5f7284b9=""
+        >
+          <!---->
+          <div
+            class="col-sm-6 p-0 offset-sm-6"
+            data-v-5f7284b9=""
+          >
+            <div
+              class="form-inline justify-content-sm-end"
+              data-v-5f7284b9=""
+            >
+              <label
+                class="mr-2"
+                data-v-5f7284b9=""
+              >
+                表示件数
+              </label>
+              <select
+                aria-label="changes number of visible items"
+                class="form-control"
+                data-v-5f7284b9=""
+              >
+                <option
+                  data-v-5f7284b9=""
+                  disabled="disabled"
+                  hidden="hidden"
+                  selected="selected"
+                  value=""
+                >
+                   10 
+                </option>
+                <option
+                  data-v-5f7284b9=""
+                  val="5"
+                >
+                   5 
+                </option>
+                <option
+                  data-v-5f7284b9=""
+                  val="10"
+                >
+                   10 
+                </option>
+                <option
+                  data-v-5f7284b9=""
+                  val="20"
+                >
+                   20 
+                </option>
+                <option
+                  data-v-5f7284b9=""
+                  val="50"
+                >
+                   50 
+                </option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div
+          class="position-relative table-responsive"
+          data-v-5f7284b9=""
+        >
+          <table
+            class="table text-nowrap"
+            data-v-5f7284b9=""
+          >
+            <thead
+              data-v-5f7284b9=""
+            >
+              <tr
+                data-v-5f7284b9=""
+              >
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    日付
+                  </div>
+                  <!---->
+                </th>
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    時間
+                  </div>
+                  <!---->
+                </th>
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    種別
+                  </div>
+                  <!---->
+                </th>
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    場所
+                  </div>
+                  <!---->
+                </th>
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    
+                  </div>
+                  <!---->
+                </th>
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    
+                  </div>
+                  <!---->
+                </th>
+              </tr>
+              <!---->
+            </thead>
+            <tbody
+              class="position-relative"
+              data-v-5f7284b9=""
+            >
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  class=""
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    data-v-5f7284b9=""
+                  >
+                    
+  2020/12/26
+  
+                    <span
+                      class="text-primary"
+                    >
+                      
+    (土)
+  
+                    </span>
+                  </span>
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            10:00 - 13:00
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            初心者練習
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            体育館＠公民館別棟
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  <!---->
+                </td>
+                <td
+                  class="my-action"
+                  data-v-5f7284b9=""
+                >
+                  <button
+                    class="btn btn-outline-info btn-sm btn-details-55"
+                    data-v-5f7284b9=""
+                    type="button"
+                  >
+                    
+              詳細
+            
+                  </button>
+                </td>
+              </tr>
+              <!---->
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  class="my-inherits-above"
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    data-v-5f7284b9=""
+                    style="display: none;"
+                  >
+                    
+  2020/12/26
+  
+                    <span
+                      class="text-primary"
+                    >
+                      
+    (土)
+  
+                    </span>
+                  </span>
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            10:00 - 13:00
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            体験会
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            多目的ホール＠公民館1F
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  <!---->
+                </td>
+                <td
+                  class="my-action"
+                  data-v-5f7284b9=""
+                >
+                  <button
+                    class="btn btn-outline-info btn-sm btn-details-54"
+                    data-v-5f7284b9=""
+                    type="button"
+                  >
+                    
+              詳細
+            
+                  </button>
+                </td>
+              </tr>
+              <!---->
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  class="my-inherits-above"
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    data-v-5f7284b9=""
+                    style="display: none;"
+                  >
+                    
+  2020/12/26
+  
+                    <span
+                      class="text-primary"
+                    >
+                      
+    (土)
+  
+                    </span>
+                  </span>
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            13:00 - 16:00
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            上級者練習
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            体育館＠公民館別棟
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  <!---->
+                </td>
+                <td
+                  class="my-action"
+                  data-v-5f7284b9=""
+                >
+                  <button
+                    class="btn btn-outline-info btn-sm btn-details-56"
+                    data-v-5f7284b9=""
+                    type="button"
+                  >
+                    
+              詳細
+            
+                  </button>
+                </td>
+              </tr>
+              <!---->
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  class=""
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    data-v-5f7284b9=""
+                  >
+                    
+  2020/12/27
+  
+                    <span
+                      class="text-danger"
+                    >
+                      
+    (日)
+  
+                    </span>
+                  </span>
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            10:00 - 13:00
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            初心者練習
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            体育館＠公民館別棟
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    class="badge badge-danger"
+                    data-v-5f7284b9=""
+                  >
+                    
+  中止
+
+                  </span>
+                </td>
+                <td
+                  class="my-action"
+                  data-v-5f7284b9=""
+                >
+                  <button
+                    class="btn btn-outline-info btn-sm btn-details-58"
+                    data-v-5f7284b9=""
+                    type="button"
+                  >
+                    
+              詳細
+            
+                  </button>
+                </td>
+              </tr>
+              <!---->
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  class="my-inherits-above"
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    data-v-5f7284b9=""
+                    style="display: none;"
+                  >
+                    
+  2020/12/27
+  
+                    <span
+                      class="text-danger"
+                    >
+                      
+    (日)
+  
+                    </span>
+                  </span>
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            13:00 - 16:00
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            上級者練習
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            体育館＠公民館別棟
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  <!---->
+                </td>
+                <td
+                  class="my-action"
+                  data-v-5f7284b9=""
+                >
+                  <button
+                    class="btn btn-outline-info btn-sm btn-details-57"
+                    data-v-5f7284b9=""
+                    type="button"
+                  >
+                    
+              詳細
+            
+                  </button>
+                </td>
+              </tr>
+              <!---->
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  class=""
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    data-v-5f7284b9=""
+                  >
+                    
+  2020/12/28
+  
+                    <span
+                      class=""
+                    >
+                      
+    (月)
+  
+                    </span>
+                  </span>
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            10:00 - 16:00
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            上級者練習
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            体育館＠公民館別棟
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  <!---->
+                </td>
+                <td
+                  class="my-action"
+                  data-v-5f7284b9=""
+                >
+                  <button
+                    class="btn btn-outline-info btn-sm btn-details-60"
+                    data-v-5f7284b9=""
+                    type="button"
+                  >
+                    
+              詳細
+            
+                  </button>
+                </td>
+              </tr>
+              <!---->
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  class=""
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    data-v-5f7284b9=""
+                  >
+                    
+  2021/01/02
+  
+                    <span
+                      class="text-primary"
+                    >
+                      
+    (土)
+  
+                    </span>
+                  </span>
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            10:00 - 13:00
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            初心者練習
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            体育館＠公民館別棟
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    class="badge badge-warning"
+                    data-v-5f7284b9=""
+                  >
+                    
+  未定
+
+                  </span>
+                </td>
+                <td
+                  class="my-action"
+                  data-v-5f7284b9=""
+                >
+                  <button
+                    class="btn btn-outline-info btn-sm btn-details-62"
+                    data-v-5f7284b9=""
+                    type="button"
+                  >
+                    
+              詳細
+            
+                  </button>
+                </td>
+              </tr>
+              <!---->
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  class="my-inherits-above"
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    data-v-5f7284b9=""
+                    style="display: none;"
+                  >
+                    
+  2021/01/02
+  
+                    <span
+                      class="text-primary"
+                    >
+                      
+    (土)
+  
+                    </span>
+                  </span>
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            10:00 - 13:00
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            体験会
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            多目的ホール＠公民館1F
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    class="badge badge-warning"
+                    data-v-5f7284b9=""
+                  >
+                    
+  未定
+
+                  </span>
+                </td>
+                <td
+                  class="my-action"
+                  data-v-5f7284b9=""
+                >
+                  <button
+                    class="btn btn-outline-info btn-sm btn-details-61"
+                    data-v-5f7284b9=""
+                    type="button"
+                  >
+                    
+              詳細
+            
+                  </button>
+                </td>
+              </tr>
+              <!---->
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  class="my-inherits-above"
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    data-v-5f7284b9=""
+                    style="display: none;"
+                  >
+                    
+  2021/01/02
+  
+                    <span
+                      class="text-primary"
+                    >
+                      
+    (土)
+  
+                    </span>
+                  </span>
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            13:00 - 16:00
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            上級者練習
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            体育館＠公民館別棟
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    class="badge badge-warning"
+                    data-v-5f7284b9=""
+                  >
+                    
+  未定
+
+                  </span>
+                </td>
+                <td
+                  class="my-action"
+                  data-v-5f7284b9=""
+                >
+                  <button
+                    class="btn btn-outline-info btn-sm btn-details-63"
+                    data-v-5f7284b9=""
+                    type="button"
+                  >
+                    
+              詳細
+            
+                  </button>
+                </td>
+              </tr>
+              <!---->
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  class=""
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    data-v-5f7284b9=""
+                  >
+                    
+  2021/01/03
+  
+                    <span
+                      class="text-danger"
+                    >
+                      
+    (日)
+  
+                    </span>
+                  </span>
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            10:00 - 13:00
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            初心者練習
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  
+            体育館＠公民館別棟
+          
+                </td>
+                <td
+                  data-v-5f7284b9=""
+                >
+                  <span
+                    class="badge badge-danger"
+                    data-v-5f7284b9=""
+                  >
+                    
+  中止
+
+                  </span>
+                </td>
+                <td
+                  class="my-action"
+                  data-v-5f7284b9=""
+                >
+                  <button
+                    class="btn btn-outline-info btn-sm btn-details-65"
+                    data-v-5f7284b9=""
+                    type="button"
+                  >
+                    
+              詳細
+            
+                  </button>
+                </td>
+              </tr>
+              <!---->
+              <!---->
+            </tbody>
+            <!---->
+          </table>
+          <!---->
+        </div>
+        <nav
+          aria-label="pagination"
+          data-v-5f7284b9=""
+        >
+          <ul
+            class="pagination  justify-content-start"
+          >
+            <li
+              class="page-item disabled"
+            >
+              <a
+                aria-disabled="true"
+                aria-label="Go to first page"
+                class="page-link disabled"
+                href="#"
+                tabindex="-1"
+                target="_self"
+              >
+                «
+              </a>
+            </li>
+            <li
+              class="page-item disabled"
+            >
+              <a
+                aria-disabled="true"
+                aria-label="Go to previous page"
+                class="page-link disabled"
+                href="#"
+                tabindex="-1"
+                target="_self"
+              >
+                ‹
+              </a>
+            </li>
+            <!---->
+            <li
+              class="active page-item"
+            >
+              <a
+                aria-label="Current page 1"
+                class="page-link c-page-link-number"
+                href="#"
+                target="_self"
+              >
+                 1 
+              </a>
+            </li>
+            <li
+              class="page-item"
+            >
+              <a
+                aria-label="Go to page 2"
+                class="page-link c-page-link-number"
+                href="#"
+                target="_self"
+              >
+                 2 
+              </a>
+            </li>
+            <li
+              class="page-item"
+            >
+              <a
+                aria-label="Go to page 3"
+                class="page-link c-page-link-number"
+                href="#"
+                target="_self"
+              >
+                 3 
+              </a>
+            </li>
+            <li
+              class="page-item"
+            >
+              <a
+                aria-label="Go to page 4"
+                class="page-link c-page-link-number"
+                href="#"
+                target="_self"
+              >
+                 4 
+              </a>
+            </li>
+            <li
+              class="page-item disabled"
+              role="separator"
+            >
+              <span
+                class="page-link"
+              >
+                …
+              </span>
+            </li>
+            <li
+              class="page-item"
+            >
+              <a
+                aria-label="Go to next page"
+                class="page-link"
+                href="#"
+                target="_self"
+              >
+                ›
+              </a>
+            </li>
+            <li
+              class="page-item"
+            >
+              <a
+                aria-label="Go to last page"
+                class="page-link"
+                href="#"
+                target="_self"
+              >
+                »
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+     
+    <footer
+      class="card-footer"
+    >
+      <div
+        class="my-notes"
+      >
+        <p
+          class="h5"
+        >
+          
+          注意事項
+        
+        </p>
+         
+        <p
+          class="nl2br"
+        >
+          
+          設定値
+        
+        </p>
+      </div>
+    </footer>
+  </div>
+   
+  <div>
+    <div
+      class="modal overflow-auto fade modal-info"
+      role="dialog"
+      tabindex="-1"
+    >
+      <div
+        class="modal-dialog modal-dialog-centered"
+        role="document"
+      >
+        <div
+          class="modal-content"
+        >
+          <header
+            class="modal-header"
+          >
+            <h5
+              class="modal-title"
+            >
+               詳細 
+            </h5>
+            <button
+              aria-label="Close"
+              class="close"
+              type="button"
+            >
+              ×
+            </button>
+          </header>
+          <div
+            class="modal-body"
+          />
+          <footer
+            class="modal-footer"
+          >
+            <button
+              class="btn btn-secondary"
+              type="button"
+            >
+               Cancel 
+            </button>
+            <button
+              class="btn btn-info"
+              type="button"
+            >
+               OK 
+            </button>
+          </footer>
+        </div>
+      </div>
+    </div>
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`List 通常 マウント データ取得：成功 詳細ボタンクリック モーダル全体表示 1`] = `
+<div>
+  <div
+    class="modal overflow-auto fade d-block modal-info"
+    role="dialog"
+    tabindex="-1"
+  >
+    <div
+      class="modal-dialog modal-dialog-centered"
+      role="document"
+    >
+      <div
+        class="modal-content"
+      >
+        <header
+          class="modal-header"
+        >
+          <h5
+            class="modal-title"
+          >
+             詳細 
+          </h5>
+          <button
+            aria-label="Close"
+            class="close"
+            type="button"
+          >
+            ×
+          </button>
+        </header>
+        <div
+          class="modal-body"
+        >
+          <dl
+            class="row"
+          >
+            <dt
+              class="col-sm-4"
+            >
+              
+        日付
+      
+            </dt>
+             
+            <dd
+              class="col-sm-8"
+            >
+              <span>
+                
+  2020/12/26
+  
+                <span
+                  class="text-primary"
+                >
+                  
+    (土)
+  
+                </span>
+              </span>
+            </dd>
+             
+            <dt
+              class="col-sm-4"
+            >
+              
+        開始時刻
+      
+            </dt>
+             
+            <dd
+              class="col-sm-8"
+            >
+              
+        13:00
+      
+            </dd>
+             
+            <dt
+              class="col-sm-4"
+            >
+              
+        終了時刻
+      
+            </dt>
+             
+            <dd
+              class="col-sm-8"
+            >
+              
+        16:00
+      
+            </dd>
+             
+            <dt
+              class="col-sm-4"
+            >
+              
+        種別
+      
+            </dt>
+             
+            <dd
+              class="col-sm-8"
+            >
+              
+        上級者練習
+      
+            </dd>
+             
+            <dt
+              class="col-sm-4"
+            >
+              
+        場所
+      
+            </dt>
+             
+            <dd
+              class="col-sm-8"
+            >
+              
+        体育館＠公民館別棟
+      
+            </dd>
+             
+            <dt
+              class="col-sm-4"
+            >
+              
+        時間割
+      
+            </dt>
+             
+            <dd
+              class="col-sm-8 nl2br"
+            >
+              1回目：13:00-
+2回目：14:30-
+            </dd>
+             
+            <dt
+              class="col-sm-4"
+            >
+              
+        ステータス
+      
+            </dt>
+             
+            <dd
+              class="col-sm-8"
+            >
+              <span
+                class="badge badge-info"
+              >
+                
+  確定
+
+              </span>
+            </dd>
+          </dl>
+        </div>
+        <footer
+          class="modal-footer"
+        >
+          <button
+            class="btn btn-secondary"
+            type="button"
+          >
+             Cancel 
+          </button>
+          <button
+            class="btn btn-info"
+            type="button"
+          >
+             OK 
+          </button>
+        </footer>
+      </div>
+    </div>
+  </div>
+  <div
+    class="modal-backdrop fade"
+  />
+</div>
+`;

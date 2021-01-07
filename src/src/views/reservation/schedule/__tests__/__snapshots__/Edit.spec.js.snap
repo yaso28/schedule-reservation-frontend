@@ -1,0 +1,660 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Edit マウント metaタグ 1`] = `
+NodeList [
+  <meta
+    content="noindex"
+    data-vmid="robots"
+    data-vue-meta="2"
+    name="robots"
+  />,
+]
+`;
+
+exports[`Edit マウント titleタグ 1`] = `"やそスポーツクラブ | 練習予定編集"`;
+
+exports[`Edit マウント データ取得：成功 ページ全体表示 1`] = `
+<div>
+  <h1>
+    練習予定編集
+  </h1>
+   
+  <form
+    class=""
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="card-body"
+      >
+        <div
+          class="form-row form-group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="ymd"
+          >
+            
+    日付
+  
+          </label>
+           
+          <div
+            class="col-sm-9"
+          >
+            <div
+              class="my-input-wrapper"
+            >
+              <div
+                class="d-flex"
+              >
+                <input
+                  class="form-control flex-grow-1"
+                  id="ymd"
+                  type="date"
+                />
+                 
+                <!---->
+              </div>
+            </div>
+             
+            <!---->
+          </div>
+        </div>
+         
+        <div
+          class="form-group form-row"
+          role="group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="begins_at"
+          >
+             開始時刻 
+          </label>
+          <div
+            class="col-sm-9"
+          >
+            <!---->
+            <input
+              class="form-control"
+              id="begins_at"
+              step="900"
+              type="time"
+            />
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+        </div>
+         
+        <div
+          class="form-group form-row"
+          role="group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="ends_at"
+          >
+             終了時刻 
+          </label>
+          <div
+            class="col-sm-9"
+          >
+            <!---->
+            <input
+              class="form-control"
+              id="ends_at"
+              step="900"
+              type="time"
+            />
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+        </div>
+         
+        <div
+          class="form-group form-row"
+          role="group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="schedule_place_id"
+          >
+             場所 
+          </label>
+          <div
+            class="col-sm-9"
+          >
+            <!---->
+            <select
+              class="form-control"
+              id="schedule_place_id"
+            >
+              <!---->
+              <option
+                data-key="0"
+                value=""
+              >
+                  
+              </option>
+              <option
+                data-key="1"
+                value="1"
+              >
+                 体育館＠公民館別棟 
+              </option>
+              <option
+                data-key="2"
+                value="2"
+              >
+                 多目的ホール＠公民館1F 
+              </option>
+              <option
+                data-key="3"
+                value="3"
+              >
+                 大会議室＠公民館2F 
+              </option>
+            </select>
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+        </div>
+         
+        <div
+          class="form-group form-row"
+          role="group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="schedule_usage_id"
+          >
+             用途 
+          </label>
+          <div
+            class="col-sm-9"
+          >
+            <!---->
+            <select
+              class="form-control"
+              id="schedule_usage_id"
+            >
+              <!---->
+              <option
+                data-key="0"
+                value=""
+              >
+                  
+              </option>
+              <option
+                data-key="1"
+                value="1"
+              >
+                 通常練習 
+              </option>
+              <option
+                data-key="2"
+                value="2"
+              >
+                 体験会 
+              </option>
+              <option
+                data-key="3"
+                value="3"
+              >
+                 会議 
+              </option>
+            </select>
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+        </div>
+         
+        <div
+          class="form-group form-row"
+          role="group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="schedule_timetable_id"
+          >
+             時間割 
+          </label>
+          <div
+            class="col-sm-9"
+          >
+            <!---->
+            <select
+              class="form-control"
+              id="schedule_timetable_id"
+            >
+              <!---->
+              <option
+                data-key="0"
+                value=""
+              >
+                  
+              </option>
+              <option
+                data-key="1"
+                value="1"
+              >
+                 午前 
+              </option>
+              <option
+                data-key="2"
+                value="2"
+              >
+                 午後 
+              </option>
+              <option
+                data-key="3"
+                value="3"
+              >
+                 一日 
+              </option>
+            </select>
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+        </div>
+         
+        <div
+          class="form-group form-row"
+          role="group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="schedule_status_id"
+          >
+             公開ステータス 
+          </label>
+          <div
+            class="col-sm-9"
+          >
+            <!---->
+            <select
+              class="form-control"
+              id="schedule_status_id"
+            >
+              <!---->
+              <option
+                data-key="0"
+                value=""
+              >
+                  
+              </option>
+              <option
+                data-key="1"
+                value="1"
+              >
+                 未定 
+              </option>
+              <option
+                data-key="2"
+                value="2"
+              >
+                 確定 
+              </option>
+              <option
+                data-key="3"
+                value="3"
+              >
+                 中止 
+              </option>
+              <option
+                data-key="4"
+                value="4"
+              >
+                 非公開 
+              </option>
+            </select>
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+        </div>
+         
+        <hr
+          class="my-4"
+        />
+         
+        <p
+          class="h5"
+        >
+          
+          会場予約
+        
+        </p>
+         
+        <div
+          class="card my-2"
+        >
+          <div
+            class="card-body"
+          >
+            <div
+              class="form-group form-row"
+              role="group"
+            >
+              <label
+                class="col-form-label col-sm-3"
+                for="reservation_list.0.begins_at"
+              >
+                 開始時刻 
+              </label>
+              <div
+                class="col-sm-9"
+              >
+                <!---->
+                <input
+                  class="form-control"
+                  id="reservation_list.0.begins_at"
+                  step="900"
+                  type="time"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </div>
+             
+            <div
+              class="form-group form-row"
+              role="group"
+            >
+              <label
+                class="col-form-label col-sm-3"
+                for="reservation_list.0.ends_at"
+              >
+                 終了時刻 
+              </label>
+              <div
+                class="col-sm-9"
+              >
+                <!---->
+                <input
+                  class="form-control"
+                  id="reservation_list.0.ends_at"
+                  step="900"
+                  type="time"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </div>
+             
+            <div
+              class="form-group form-row"
+              role="group"
+            >
+              <label
+                class="col-form-label col-sm-3"
+                for="reservation_list.0.reservation_status_id"
+              >
+                 予約ステータス 
+              </label>
+              <div
+                class="col-sm-9"
+              >
+                <!---->
+                <select
+                  class="form-control"
+                  id="reservation_list.0.reservation_status_id"
+                >
+                  <!---->
+                  <option
+                    data-key="0"
+                    value=""
+                  >
+                      
+                  </option>
+                  <option
+                    data-key="1"
+                    value="1"
+                  >
+                     未予約 
+                  </option>
+                  <option
+                    data-key="2"
+                    value="2"
+                  >
+                     電話予約済 
+                  </option>
+                  <option
+                    data-key="3"
+                    value="3"
+                  >
+                     書類提出済 
+                  </option>
+                  <option
+                    data-key="4"
+                    value="4"
+                  >
+                     書類控取得 
+                  </option>
+                  <option
+                    data-key="5"
+                    value="5"
+                  >
+                     料金支払済 
+                  </option>
+                  <option
+                    data-key="6"
+                    value="6"
+                  >
+                     会計精算済 
+                  </option>
+                  <option
+                    data-key="7"
+                    value="7"
+                  >
+                     キャンセル 
+                  </option>
+                </select>
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </div>
+             
+            <a
+              class="btn btn-outline-primary"
+              href="/reservation/reservation/split/8"
+              target="_self"
+            >
+              
+              分割
+            
+            </a>
+          </div>
+        </div>
+        <div
+          class="card my-2"
+        >
+          <div
+            class="card-body"
+          >
+            <div
+              class="form-group form-row"
+              role="group"
+            >
+              <label
+                class="col-form-label col-sm-3"
+                for="reservation_list.1.begins_at"
+              >
+                 開始時刻 
+              </label>
+              <div
+                class="col-sm-9"
+              >
+                <!---->
+                <input
+                  class="form-control"
+                  id="reservation_list.1.begins_at"
+                  step="900"
+                  type="time"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </div>
+             
+            <div
+              class="form-group form-row"
+              role="group"
+            >
+              <label
+                class="col-form-label col-sm-3"
+                for="reservation_list.1.ends_at"
+              >
+                 終了時刻 
+              </label>
+              <div
+                class="col-sm-9"
+              >
+                <!---->
+                <input
+                  class="form-control"
+                  id="reservation_list.1.ends_at"
+                  step="900"
+                  type="time"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </div>
+             
+            <div
+              class="form-group form-row"
+              role="group"
+            >
+              <label
+                class="col-form-label col-sm-3"
+                for="reservation_list.1.reservation_status_id"
+              >
+                 予約ステータス 
+              </label>
+              <div
+                class="col-sm-9"
+              >
+                <!---->
+                <select
+                  class="form-control"
+                  id="reservation_list.1.reservation_status_id"
+                >
+                  <!---->
+                  <option
+                    data-key="0"
+                    value=""
+                  >
+                      
+                  </option>
+                  <option
+                    data-key="1"
+                    value="1"
+                  >
+                     未予約 
+                  </option>
+                  <option
+                    data-key="2"
+                    value="2"
+                  >
+                     電話予約済 
+                  </option>
+                  <option
+                    data-key="3"
+                    value="3"
+                  >
+                     書類提出済 
+                  </option>
+                  <option
+                    data-key="4"
+                    value="4"
+                  >
+                     書類控取得 
+                  </option>
+                  <option
+                    data-key="5"
+                    value="5"
+                  >
+                     料金支払済 
+                  </option>
+                  <option
+                    data-key="6"
+                    value="6"
+                  >
+                     会計精算済 
+                  </option>
+                  <option
+                    data-key="7"
+                    value="7"
+                  >
+                     キャンセル 
+                  </option>
+                </select>
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </div>
+             
+            <a
+              class="btn btn-outline-primary"
+              href="/reservation/reservation/split/7"
+              target="_self"
+            >
+              
+              分割
+            
+            </a>
+          </div>
+        </div>
+      </div>
+       
+      <footer
+        class="card-footer"
+      >
+        <button
+          class="btn btn-reset btn-secondary"
+          type="button"
+        >
+          
+          リセット
+        
+        </button>
+         
+        <button
+          class="btn btn-primary"
+          type="submit"
+        >
+          
+          保存
+        
+        </button>
+      </footer>
+    </div>
+  </form>
+</div>
+`;

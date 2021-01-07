@@ -1,0 +1,42 @@
+{
+  "id": 44,
+  "schedule_id": 51,
+  "schedule": {
+    "id": 51,
+    "ymd": "2020-11-01",
+    "begins_at": "13:00",
+    "ends_at": "16:00",
+    "schedule_place_id": 1,
+    "schedule_place": {
+      "id": 1,
+      "name": "\u4f53\u80b2\u9928\uff20\u516c\u6c11\u9928\u5225\u68df",
+      "abbreviation": "\u4f53\u80b2\u9928",
+      "price_per_hour": 940
+    },
+    "schedule_usage_id": 2,
+    "schedule_usage": {
+      "id": 2,
+      "name": "\u4e0a\u7d1a\u8005\u7df4\u7fd2",
+      "is_public": true,
+      "reservation_organization_id": 1,
+      "reservation_organization": {
+        "id": 1,
+        "name": "\u4e00\u822c\u56e3\u4f53",
+        "abbreviation": "\u4e00\u822c",
+        "registration_number": "2737-289389"
+      }
+    },
+    "schedule_timetable_id": 2,
+    "reservation_status_id": 6,
+    "schedule_status_id": 2
+  },
+  "begins_at": "13:00",
+  "ends_at": "16:00",
+  "reservation_status_id": 6,
+  "reservation_status": {
+    "id": 6,
+    "name": "\u4f1a\u8a08\u7cbe\u7b97\u6e08",
+    "description": "\u7acb\u3066\u66ff\u3048\u3066\u3044\u305f\u4f7f\u7528\u6599\u3092\u4f1a\u8a08\u306e\u65b9\u306b\u7cbe\u7b97\u3057\u3066\u3082\u3089\u3063\u305f\u3082\u306e\u3067\u3059\u3002",
+    "reserved": true
+  }
+}

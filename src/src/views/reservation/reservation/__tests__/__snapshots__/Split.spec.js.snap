@@ -1,0 +1,160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Split マウント metaタグ 1`] = `
+NodeList [
+  <meta
+    content="noindex"
+    data-vmid="robots"
+    data-vue-meta="2"
+    name="robots"
+  />,
+]
+`;
+
+exports[`Split マウント titleタグ 1`] = `"やそスポーツクラブ | 会場予約分割"`;
+
+exports[`Split マウント データ取得：成功 ページ全体表示 1`] = `
+<div>
+  <h1>
+    会場予約分割
+  </h1>
+   
+  <form
+    class=""
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="card-body"
+      >
+        <dl
+          class="row"
+        >
+          <dt
+            class="col-sm-3"
+          >
+            
+            日付
+          
+          </dt>
+           
+          <dd
+            class="col-sm-9"
+          >
+            <span>
+              
+  2020/11/01
+  
+              <span
+                class="text-danger"
+              >
+                
+    (日)
+  
+              </span>
+            </span>
+          </dd>
+           
+          <dt
+            class="col-sm-3"
+          >
+            
+            場所
+          
+          </dt>
+           
+          <dd
+            class="col-sm-9"
+          >
+            
+            体育館＠公民館別棟
+          
+          </dd>
+           
+          <dt
+            class="col-sm-3"
+          >
+            
+            開始時刻
+          
+          </dt>
+           
+          <dd
+            class="col-sm-9"
+          >
+            
+            13:00
+          
+          </dd>
+           
+          <dt
+            class="col-sm-3"
+          >
+            
+            終了時刻
+          
+          </dt>
+           
+          <dd
+            class="col-sm-9"
+          >
+            
+            16:00
+          
+          </dd>
+        </dl>
+         
+        <div
+          class="form-group form-row"
+          role="group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="splits_at"
+          >
+             分割する時刻 
+          </label>
+          <div
+            class="col-sm-9"
+          >
+            <!---->
+            <input
+              class="form-control"
+              id="splits_at"
+              step="900"
+              type="time"
+            />
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+        </div>
+      </div>
+       
+      <footer
+        class="card-footer"
+      >
+        <button
+          class="btn btn-reset btn-secondary"
+          type="button"
+        >
+          
+          リセット
+        
+        </button>
+         
+        <button
+          class="btn btn-primary"
+          type="submit"
+        >
+          
+          保存
+        
+        </button>
+      </footer>
+    </div>
+  </form>
+</div>
+`;

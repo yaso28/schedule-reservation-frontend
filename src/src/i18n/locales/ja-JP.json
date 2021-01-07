@@ -1,0 +1,136 @@
+{
+  "organization_name": "やそスポーツクラブ",
+  "app_name": "公式サイト",
+  "home": "ホーム",
+  "action": {
+    "list": "一覧",
+    "add": "追加",
+    "edit": "編集",
+    "reorder": "並べ替え",
+    "bulk_change": "一括変更",
+    "copy": "コピー",
+    "split": "分割",
+    "save": "保存",
+    "send": "送信",
+    "reset": "リセット",
+    "close": "閉じる",
+    "search": "検索",
+    "filter": "絞り込み",
+    "clear": "クリア",
+    "hide": "非表示",
+    "login": "ログイン",
+    "logout": "ログアウト"
+  },
+  "message": {
+    "error": {
+      "api": "予期せぬエラーが発生しました。",
+      "validation": "入力項目に誤りがあります。",
+      "403": "権限がありません。",
+      "404": "URLに誤りがあります。"
+    },
+    "save": {
+      "confirm": "保存しますか？",
+      "success": "保存しました。"
+    },
+    "send": {
+      "confirm": "送信しますか？",
+      "success": "送信しました。"
+    },
+    "select_required": "選択してください。",
+    "btn_add_required": "入力後に追加ボタンをクリックしてください。"
+  },
+  "day_of_week": [
+    "日",
+    "月",
+    "火",
+    "水",
+    "木",
+    "金",
+    "土"
+  ],
+  "common": {
+    "name": "名称",
+    "abbreviation": "略称",
+    "details": "詳細",
+    "setting": "設定",
+    "items_per_page": "表示件数",
+    "range_from": "（開始）",
+    "range_to": "（終了）",
+    "target": "対象",
+    "here": "こちら",
+    "notes": "注意事項"
+  },
+  "user": {
+    "id": "ID/メールアドレス",
+    "password": "パスワード",
+    "guest": "ゲスト"
+  },
+  "send": {
+    "model": "メール送信",
+    "mail_to": "宛先メールアドレス",
+    "subject": "件名",
+    "message": "本文",
+    "message_begin": "本文（開始）",
+    "message_end": "本文（終了）",
+    "statement": {
+      "setting": "宛先メールアドレス、件名、本文の設定変更は"
+    }
+  },
+  "month": {
+    "model": "月",
+    "year": "年",
+    "month": "月",
+    "later": "以降"
+  },
+  "schedule": {
+    "model": "練習予定",
+    "ymd": "日付",
+    "begins_at": "開始時刻",
+    "ends_at": "終了時刻",
+    "time": "時間"
+  },
+  "reservation": {
+    "model": "会場予約",
+    "splits_at": "分割する時刻"
+  },
+  "schedule_status": {
+    "model": "公開ステータス",
+    "model_public": "ステータス",
+    "display_type": "表示種別",
+    "is_public": "公開フラグ",
+    "bulk_change_mode": {
+      "model": "一括確定種別",
+      "0": "対象外",
+      "1": "対象",
+      "2": "変更先"
+    }
+  },
+  "reservation_status": {
+    "model": "予約ステータス",
+    "description": "説明",
+    "reserved": "予約済フラグ"
+  },
+  "reservation_organization": {
+    "model": "予約団体",
+    "registration_number": "登録No."
+  },
+  "schedule_place": {
+    "model": "場所",
+    "price_per_hour": "使用料（1時間ごと）"
+  },
+  "schedule_usage": {
+    "model": "用途",
+    "model_public": "種別",
+    "is_public": "公開フラグ"
+  },
+  "schedule_timetable": {
+    "model": "時間割",
+    "details": "詳細"
+  },
+  "seo": {
+    "home": "やそスポーツクラブの公式サイトです。",
+    "schedule": {
+      "list": "やそスポーツクラブの練習予定一覧です。"
+    }
+  }
+}

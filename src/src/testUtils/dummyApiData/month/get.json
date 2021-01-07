@@ -1,0 +1,23 @@
+{
+  "id": 4,
+  "year": 2021,
+  "month": 1,
+  "reservation_status_id": 1,
+  "reservation_status": {
+    "id": 1,
+    "name": "\u672a\u4e88\u7d04",
+    "description": "\u307e\u3060\u4e88\u7d04\u3057\u3066\u3044\u306a\u3044\u3082\u306e\u3067\u3059\u3002",
+    "reserved": false
+  },
+  "schedule_status_id": 1,
+  "schedule_status": {
+    "id": 1,
+    "name": "\u672a\u5b9a",
+    "display_type": "warning",
+    "is_public": true,
+    "bulk_change_mode": 1
+  },
+  "name": "2021\u5e7401\u6708",
+  "first_day": "2021-01-01",
+  "last_day": "2021-01-31"
+}

@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyTime オプション stepMinute step属性変更 1`] = `
+Object {
+  "class": "form-control",
+  "id": "sample_field",
+  "step": "60",
+  "type": "time",
+}
+`;
+
+exports[`MyTime バリデーションエラー 表示 1`] = `
+<div
+  class="form-group form-row"
+  role="group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for="sample_field"
+  >
+     サンプル 
+  </label>
+  <div
+    class="col-sm-9"
+  >
+    <!---->
+    <input
+      class="form-control is-invalid"
+      id="sample_field"
+      step="900"
+      type="time"
+    />
+    <!---->
+    <!---->
+    <div
+      class="invalid-feedback"
+    >
+      エラーです
+    </div>
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`MyTime 通常 表示 1`] = `
+<div
+  class="form-group form-row"
+  role="group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for="sample_field"
+  >
+     サンプル 
+  </label>
+  <div
+    class="col-sm-9"
+  >
+    <!---->
+    <input
+      class="form-control"
+      id="sample_field"
+      step="900"
+      type="time"
+    />
+    <!---->
+    <!---->
+    <!---->
+    <!---->
+  </div>
+</div>
+`;

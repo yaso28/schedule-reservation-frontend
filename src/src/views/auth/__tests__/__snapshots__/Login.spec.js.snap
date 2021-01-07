@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login マウント metaタグ 1`] = `
+NodeList [
+  <meta
+    content="noindex"
+    data-vmid="robots"
+    data-vue-meta="2"
+    name="robots"
+  />,
+]
+`;
+
+exports[`Login マウント titleタグ 1`] = `"やそスポーツクラブ | ログイン"`;
+
+exports[`Login マウント ページ全体表示 1`] = `
+<div>
+  <h1>
+    ログイン
+  </h1>
+   
+  <form
+    class=""
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="card-body"
+      >
+        <div
+          class="form-group form-row"
+          role="group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="email"
+          >
+             ID/メールアドレス 
+          </label>
+          <div
+            class="col-sm-9"
+          >
+            <!---->
+            <input
+              class="form-control"
+              id="email"
+              type="text"
+            />
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+        </div>
+         
+        <div
+          class="form-group form-row"
+          role="group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="password"
+          >
+             パスワード 
+          </label>
+          <div
+            class="col-sm-9"
+          >
+            <!---->
+            <input
+              class="form-control"
+              id="password"
+              type="password"
+            />
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+        </div>
+      </div>
+       
+      <footer
+        class="card-footer"
+      >
+        <button
+          class="btn btn-primary"
+          type="submit"
+        >
+          
+          ログイン
+        
+        </button>
+      </footer>
+    </div>
+  </form>
+</div>
+`;

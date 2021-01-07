@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home マウント meta tags 1`] = `
+NodeList [
+  <meta
+    content="やそスポーツクラブの公式サイトです。"
+    data-vmid="description"
+    data-vue-meta="2"
+    name="description"
+  />,
+]
+`;
+
+exports[`Home マウント title 1`] = `"やそスポーツクラブ | 公式サイト"`;
+
+exports[`Home マウント ページ全体表示 1`] = `
+<div
+  class="home"
+>
+  <h1>
+    やそスポーツクラブ 公式サイト
+  </h1>
+</div>
+`;

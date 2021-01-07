@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyHeader 認証あり ユーザーメニュードロップダウン表示 1`] = `
+<li
+  class="c-header-nav-items dropdown nav-item"
+  id="usermenu-dropdown"
+>
+  <a
+    aria-expanded="false"
+    aria-haspopup="true"
+    class="c-header-nav-link nav-link dropdown-toggle"
+    href="#"
+    target="_self"
+  >
+    やそやそ
+  </a>
+  <!---->
+  <div
+    class="pt-0 dropdown-menu"
+  >
+    <a
+      class="dropdown-item"
+      href="/logout"
+      role="menuitem"
+      target="_self"
+    >
+      
+          ログアウト
+        
+    </a>
+  </div>
+</li>
+`;
+
+exports[`MyHeader 認証なし 表示 1`] = `
+<header
+  class="c-header c-header-light c-header-fixed"
+>
+  <button
+    class="ml-3 d-lg-none c-header-toggler"
+    id="toggle-sidebar-mobile"
+    type="button"
+  >
+    <span
+      class="c-header-toggler-icon"
+    />
+  </button>
+   
+  <button
+    class="ml-3 d-md-down-none c-header-toggler"
+    id="toggle-sidebar-desktop"
+    type="button"
+  >
+    <span
+      class="c-header-toggler-icon"
+    />
+  </button>
+   
+  <ul
+    class="c-header-nav mr-3 ml-auto"
+  >
+    <li
+      class="c-header-nav-items dropdown nav-item"
+      id="usermenu-dropdown"
+    >
+      <a
+        aria-expanded="false"
+        aria-haspopup="true"
+        class="c-header-nav-link nav-link dropdown-toggle"
+        href="#"
+        target="_self"
+      >
+        ゲスト
+      </a>
+      <!---->
+      <div
+        class="pt-0 dropdown-menu"
+      >
+        <a
+          class="dropdown-item"
+          href="/lv2au5ldfg-login"
+          role="menuitem"
+          target="_self"
+        >
+          
+          ログイン
+        
+        </a>
+      </div>
+    </li>
+  </ul>
+</header>
+`;

@@ -1,0 +1,262 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Send マウント metaタグ 1`] = `
+NodeList [
+  <meta
+    content="noindex"
+    data-vmid="robots"
+    data-vue-meta="2"
+    name="robots"
+  />,
+]
+`;
+
+exports[`Send マウント titleタグ 1`] = `"やそスポーツクラブ | メール送信"`;
+
+exports[`Send マウント データ取得：成功 ページ全体表示 1`] = `
+<div>
+  <h1>
+    メール送信
+  </h1>
+   
+  <form
+    class=""
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="card-body"
+      >
+        <dl
+          class="row"
+        >
+          <dt
+            class="col-sm-3"
+          >
+            
+            月
+          
+          </dt>
+           
+          <dd
+            class="col-sm-9"
+          >
+            
+            2021年01月
+          
+          </dd>
+           
+          <dt
+            class="col-sm-3"
+          >
+            
+            予約ステータス
+          
+          </dt>
+           
+          <dd
+            class="col-sm-9"
+          >
+            
+            電話予約済
+          
+          </dd>
+           
+          <dt
+            class="col-sm-3"
+          >
+            
+            公開ステータス
+          
+          </dt>
+           
+          <dd
+            class="col-sm-9"
+          >
+            
+            未定
+          
+          </dd>
+        </dl>
+      </div>
+    </div>
+     
+    <div
+      class="card"
+    >
+      <div
+        class="card-body"
+      >
+        <div
+          class="form-group form-row"
+          role="group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="mail_to"
+          >
+             宛先メールアドレス 
+          </label>
+          <div
+            class="col-sm-9"
+          >
+            <!---->
+            <input
+              class="form-control"
+              id="mail_to"
+              type="text"
+            />
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+        </div>
+         
+        <div
+          class="form-group form-row"
+          role="group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="subject"
+          >
+             件名 
+          </label>
+          <div
+            class="col-sm-9"
+          >
+            <!---->
+            <input
+              class="form-control"
+              id="subject"
+              type="text"
+            />
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+        </div>
+         
+        <div
+          class="form-group form-row"
+          role="group"
+        >
+          <label
+            class="col-form-label col-sm-3"
+            for="message"
+          >
+             本文 
+          </label>
+          <div
+            class="col-sm-9"
+          >
+            <!---->
+            <textarea
+              class="form-control"
+              id="message"
+              rows="40"
+            />
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+        </div>
+         
+        <ul>
+          <li>
+            
+            宛先メールアドレス、件名、本文の設定変更は
+            <a
+              class=""
+              href="/reservation/setting/edit"
+              target="_self"
+            >
+              
+              こちら
+            
+            </a>
+          </li>
+        </ul>
+      </div>
+       
+      <footer
+        class="card-footer"
+      >
+        <button
+          class="btn btn-reset btn-secondary"
+          type="button"
+        >
+          
+          リセット
+        
+        </button>
+         
+        <button
+          class="btn btn-primary"
+          type="submit"
+        >
+          
+          送信
+        
+        </button>
+      </footer>
+    </div>
+  </form>
+   
+  <div>
+    <div
+      class="modal overflow-auto fade modal-primary"
+      role="dialog"
+      tabindex="-1"
+    >
+      <div
+        class="modal-dialog modal-dialog-centered modal-sm"
+        role="document"
+      >
+        <div
+          class="modal-content"
+        >
+          <header
+            class="modal-header"
+          >
+            <h5
+              class="modal-title"
+            >
+               送信しますか？ 
+            </h5>
+            <button
+              aria-label="Close"
+              class="close"
+              type="button"
+            >
+              ×
+            </button>
+          </header>
+          <div />
+          <footer
+            class="modal-footer"
+          >
+            <button
+              class="btn btn-secondary"
+              type="button"
+            >
+               Cancel 
+            </button>
+            <button
+              class="btn btn-primary"
+              type="button"
+            >
+               OK 
+            </button>
+          </footer>
+        </div>
+      </div>
+    </div>
+    <!---->
+  </div>
+</div>
+`;

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "\u672a\u5b9a",
+    "display_type": "warning",
+    "is_public": true,
+    "bulk_change_mode": 1
+  },
+  {
+    "id": 2,
+    "name": "\u78ba\u5b9a",
+    "display_type": null,
+    "is_public": true,
+    "bulk_change_mode": 2
+  },
+  {
+    "id": 3,
+    "name": "\u4e2d\u6b62",
+    "display_type": "danger",
+    "is_public": true,
+    "bulk_change_mode": 0
+  },
+  {
+    "id": 4,
+    "name": "\u975e\u516c\u958b",
+    "display_type": null,
+    "is_public": false,
+    "bulk_change_mode": 0
+  }
+]

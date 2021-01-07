@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error 403 マウント meta tags 1`] = `
+NodeList [
+  <meta
+    content="noindex"
+    data-vmid="robots"
+    data-vue-meta="2"
+    name="robots"
+  />,
+]
+`;
+
+exports[`Error 403 マウント title 1`] = `"やそスポーツクラブ"`;
+
+exports[`Error 403 マウント ページ全体表示 1`] = `
+<div>
+  <transition-stub
+    appear="true"
+    data-v-c95d1f08=""
+    name="fade"
+  >
+    <div
+      aria-atomic="true"
+      aria-live="polite"
+      class="alert alert-danger"
+      data-v-c95d1f08=""
+      role="alert"
+    >
+      <!---->
+      
+    権限がありません。
+  
+    </div>
+  </transition-stub>
+</div>
+`;
+
+exports[`Error 404 マウント meta tags 1`] = `
+NodeList [
+  <meta
+    content="noindex"
+    data-vmid="robots"
+    data-vue-meta="5"
+    name="robots"
+  />,
+]
+`;
+
+exports[`Error 404 マウント title 1`] = `"やそスポーツクラブ"`;
+
+exports[`Error 404 マウント ページ全体表示 1`] = `
+<div>
+  <transition-stub
+    appear="true"
+    data-v-c95d1f08=""
+    name="fade"
+  >
+    <div
+      aria-atomic="true"
+      aria-live="polite"
+      class="alert alert-danger"
+      data-v-c95d1f08=""
+      role="alert"
+    >
+      <!---->
+      
+    URLに誤りがあります。
+  
+    </div>
+  </transition-stub>
+</div>
+`;

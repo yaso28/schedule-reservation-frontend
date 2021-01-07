@@ -1,0 +1,17 @@
+{
+  "user": {
+    "id": 1,
+    "name": "やそやそ",
+    "email": "user1@sample.org"
+  },
+  "permissions": [
+    {
+      "id": 3,
+      "name": "permission.3"
+    },
+    {
+      "id": 5,
+      "name": "permission.5"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListModalDetails write権限：あり マウント schedule：あり 表示 データ取得：成功 モーダル全体表示 1`] = `
+<div>
+  <div
+    class="modal overflow-auto fade d-block modal-info"
+    role="dialog"
+    tabindex="-1"
+  >
+    <div
+      class="modal-dialog modal-dialog-centered"
+      role="document"
+    >
+      <div
+        class="modal-content"
+      >
+        <header
+          class="modal-header"
+        >
+          <h5
+            class="modal-title"
+          >
+             詳細 
+          </h5>
+          <button
+            aria-label="Close"
+            class="close"
+            type="button"
+          >
+            ×
+          </button>
+        </header>
+        <div
+          class="modal-body"
+        >
+          <dl
+            class="row"
+          >
+            <dt
+              class="col-sm-4"
+            >
+              
+      日付
+    
+            </dt>
+             
+            <dd
+              class="col-sm-8"
+            >
+              <span>
+                
+  2020/11/21
+  
+                <span
+                  class="text-primary"
+                >
+                  
+    (土)
+  
+                </span>
+              </span>
+            </dd>
+             
+            <dt
+              class="col-sm-4"
+            >
+              
+      開始時刻
+    
+            </dt>
+             
+            <dd
+              class="col-sm-8"
+            >
+              
+      10:00
+    
+            </dd>
+             
+            <dt
+              class="col-sm-4"
+            >
+              
+      終了時刻
+    
+            </dt>
+             
+            <dd
+              class="col-sm-8"
+            >
+              
+      13:00
+    
+            </dd>
+             
+            <dt
+              class="col-sm-4"
+            >
+              
+      場所
+    
+            </dt>
+             
+            <dd
+              class="col-sm-8"
+            >
+              
+      体育館＠公民館別棟
+    
+            </dd>
+             
+            <dt
+              class="col-sm-4"
+            >
+              
+      用途
+    
+            </dt>
+             
+            <dd
+              class="col-sm-8"
+            >
+              
+      初心者練習
+    
+            </dd>
+             
+            <dt
+              class="col-sm-4"
+            >
+              
+      時間割
+    
+            </dt>
+             
+            <dd
+              class="col-sm-8 nl2br"
+            >
+              1回目：10:00-
+2回目：11:30-
+            </dd>
+             
+            <dt
+              class="col-sm-4"
+            >
+              
+      予約ステータス
+    
+            </dt>
+             
+            <dd
+              class="col-sm-8"
+            >
+              
+      料金支払済
+    
+            </dd>
+             
+            <dt
+              class="col-sm-4"
+            >
+              
+      公開ステータス
+    
+            </dt>
+             
+            <dd
+              class="col-sm-8"
+            >
+              
+      確定
+    
+            </dd>
+          </dl>
+           
+          <p
+            class="h5"
+          >
+            
+    会場予約
+  
+          </p>
+           
+          <div
+            data-v-5f7284b9=""
+          >
+            <!---->
+            <div
+              class="position-relative table-responsive"
+              data-v-5f7284b9=""
+            >
+              <table
+                class="table mb-0"
+                data-v-5f7284b9=""
+              >
+                <thead
+                  data-v-5f7284b9=""
+                >
+                  <!---->
+                  <!---->
+                </thead>
+                <tbody
+                  class="position-relative"
+                  data-v-5f7284b9=""
+                >
+                  <tr
+                    data-v-5f7284b9=""
+                  >
+                    <td
+                      class=""
+                      data-v-5f7284b9=""
+                    >
+                       10:00 
+                    </td>
+                    <td
+                      class=""
+                      data-v-5f7284b9=""
+                    >
+                       13:00 
+                    </td>
+                    <td
+                      data-v-5f7284b9=""
+                    >
+                      
+        会計精算済
+      
+                    </td>
+                    <td
+                      class="my-action"
+                      data-v-5f7284b9=""
+                    >
+                      <a
+                        class="btn btn-outline-primary"
+                        data-v-5f7284b9=""
+                        href="/reservation/reservation/split/8"
+                        target="_self"
+                      >
+                        
+          分割
+        
+                      </a>
+                    </td>
+                  </tr>
+                  <!---->
+                  <tr
+                    data-v-5f7284b9=""
+                  >
+                    <td
+                      class=""
+                      data-v-5f7284b9=""
+                    >
+                       13:00 
+                    </td>
+                    <td
+                      class=""
+                      data-v-5f7284b9=""
+                    >
+                       16:00 
+                    </td>
+                    <td
+                      data-v-5f7284b9=""
+                    >
+                      
+        会計精算済
+      
+                    </td>
+                    <td
+                      class="my-action"
+                      data-v-5f7284b9=""
+                    >
+                      <a
+                        class="btn btn-outline-primary"
+                        data-v-5f7284b9=""
+                        href="/reservation/reservation/split/7"
+                        target="_self"
+                      >
+                        
+          分割
+        
+                      </a>
+                    </td>
+                  </tr>
+                  <!---->
+                  <!---->
+                </tbody>
+                <!---->
+              </table>
+              <!---->
+            </div>
+            <!---->
+          </div>
+        </div>
+        <footer
+          class="modal-footer"
+        >
+          <a
+            class="btn btn-outline-primary"
+            href="/reservation/schedule/edit/51"
+            target="_self"
+          >
+            
+        編集
+      
+          </a>
+        </footer>
+      </div>
+    </div>
+  </div>
+  <div
+    class="modal-backdrop fade"
+  />
+</div>
+`;
+
+exports[`ListModalDetails write権限：なし マウント 表示 フッター表示 1`] = `
+<footer
+  class="modal-footer"
+>
+  
+         
+    
+</footer>
+`;
+
+exports[`ListModalDetails write権限：なし マウント 表示 予約一覧アクション表示 1`] = `
+<td
+  class="my-action"
+  data-v-5f7284b9=""
+>
+  <!---->
+</td>
+`;

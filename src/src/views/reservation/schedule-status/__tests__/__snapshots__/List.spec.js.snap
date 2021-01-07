@@ -1,0 +1,390 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List マウント metaタグ 1`] = `
+NodeList [
+  <meta
+    content="noindex"
+    data-vmid="robots"
+    data-vue-meta="2"
+    name="robots"
+  />,
+]
+`;
+
+exports[`List マウント titleタグ 1`] = `"やそスポーツクラブ | 公開ステータス一覧"`;
+
+exports[`List マウント データ取得：成功 テーブル表示 1`] = `
+<table
+  class="table"
+  data-v-5f7284b9=""
+>
+  <thead
+    data-v-5f7284b9=""
+  >
+    <tr
+      data-v-5f7284b9=""
+    >
+      <th
+        class=""
+        data-v-5f7284b9=""
+        style="vertical-align: middle; overflow: hidden;"
+      >
+        <div
+          data-v-5f7284b9=""
+        >
+          名称
+        </div>
+        <!---->
+      </th>
+      <th
+        class=""
+        data-v-5f7284b9=""
+        style="vertical-align: middle; overflow: hidden;"
+      >
+        <div
+          data-v-5f7284b9=""
+        >
+          表示種別
+        </div>
+        <!---->
+      </th>
+      <th
+        class=""
+        data-v-5f7284b9=""
+        style="vertical-align: middle; overflow: hidden;"
+      >
+        <div
+          data-v-5f7284b9=""
+        >
+          公開フラグ
+        </div>
+        <!---->
+      </th>
+      <th
+        class=""
+        data-v-5f7284b9=""
+        style="vertical-align: middle; overflow: hidden;"
+      >
+        <div
+          data-v-5f7284b9=""
+        >
+          一括確定種別
+        </div>
+        <!---->
+      </th>
+    </tr>
+    <!---->
+  </thead>
+  <tbody
+    class="position-relative"
+    data-v-5f7284b9=""
+  >
+    <tr
+      data-v-5f7284b9=""
+    >
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         未定 
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        <span
+          class="badge badge-warning"
+          data-v-5f7284b9=""
+        >
+          
+              warning
+            
+        </span>
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        <svg
+          class="c-icon"
+          data-v-5f7284b9=""
+          role="img"
+          viewBox="0 0 512 512"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <polygon
+            class="ci-primary"
+            fill="var(--ci-primary-color, currentColor)"
+            points="200.359 382.269 61.057 251.673 82.943 228.327 199.641 337.731 428.686 108.687 451.314 131.313 200.359 382.269"
+          />
+        </svg>
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        
+            対象
+          
+      </td>
+    </tr>
+    <!---->
+    <tr
+      data-v-5f7284b9=""
+    >
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         確定 
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        <!---->
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        <svg
+          class="c-icon"
+          data-v-5f7284b9=""
+          role="img"
+          viewBox="0 0 512 512"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <polygon
+            class="ci-primary"
+            fill="var(--ci-primary-color, currentColor)"
+            points="200.359 382.269 61.057 251.673 82.943 228.327 199.641 337.731 428.686 108.687 451.314 131.313 200.359 382.269"
+          />
+        </svg>
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        
+            変更先
+          
+      </td>
+    </tr>
+    <!---->
+    <tr
+      data-v-5f7284b9=""
+    >
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         中止 
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        <span
+          class="badge badge-danger"
+          data-v-5f7284b9=""
+        >
+          
+              danger
+            
+        </span>
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        <svg
+          class="c-icon"
+          data-v-5f7284b9=""
+          role="img"
+          viewBox="0 0 512 512"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <polygon
+            class="ci-primary"
+            fill="var(--ci-primary-color, currentColor)"
+            points="200.359 382.269 61.057 251.673 82.943 228.327 199.641 337.731 428.686 108.687 451.314 131.313 200.359 382.269"
+          />
+        </svg>
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        
+            対象外
+          
+      </td>
+    </tr>
+    <!---->
+    <tr
+      data-v-5f7284b9=""
+    >
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         非公開 
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        <!---->
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        <svg
+          class="c-icon"
+          data-v-5f7284b9=""
+          role="img"
+          viewBox="0 0 512 512"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <polygon
+            class="ci-primary"
+            fill="var(--ci-primary-color, currentColor)"
+            points="427.314 107.313 404.686 84.687 256 233.373 107.314 84.687 84.686 107.313 233.373 256 84.686 404.687 107.314 427.313 256 278.627 404.686 427.313 427.314 404.687 278.627 256 427.314 107.313"
+          />
+        </svg>
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        
+            対象外
+          
+      </td>
+    </tr>
+    <!---->
+    <!---->
+  </tbody>
+  <!---->
+</table>
+`;
+
+exports[`List マウント ページ全体表示 1`] = `
+<div>
+  <h1>
+    公開ステータス一覧
+  </h1>
+   
+  <div
+    class="card"
+  >
+    <div
+      class="card-body"
+    >
+      <div
+        data-v-5f7284b9=""
+      >
+        <!---->
+        <div
+          class="position-relative table-responsive"
+          data-v-5f7284b9=""
+        >
+          <table
+            class="table"
+            data-v-5f7284b9=""
+          >
+            <thead
+              data-v-5f7284b9=""
+            >
+              <tr
+                data-v-5f7284b9=""
+              >
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    名称
+                  </div>
+                  <!---->
+                </th>
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    表示種別
+                  </div>
+                  <!---->
+                </th>
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    公開フラグ
+                  </div>
+                  <!---->
+                </th>
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    一括確定種別
+                  </div>
+                  <!---->
+                </th>
+              </tr>
+              <!---->
+            </thead>
+            <tbody
+              class="position-relative"
+              data-v-5f7284b9=""
+            >
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  colspan="4"
+                  data-v-5f7284b9=""
+                >
+                  <div
+                    class="text-center my-5"
+                    data-v-5f7284b9=""
+                  >
+                    <h2
+                      data-v-5f7284b9=""
+                    >
+                       No items 
+                      <svg
+                        class="text-danger mb-2 c-icon c-icon-custom-size"
+                        data-v-5f7284b9=""
+                        role="img"
+                        viewBox="0 0 512 512"
+                        width="30"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ci-primary"
+                          d="M425.706,86.294A240,240,0,0,0,86.294,425.705,240,240,0,0,0,425.706,86.294ZM256,48A207.1,207.1,0,0,1,391.528,98.345L98.345,391.528A207.1,207.1,0,0,1,48,256C48,141.309,141.309,48,256,48Zm0,416a207.084,207.084,0,0,1-134.986-49.887l293.1-293.1A207.084,207.084,0,0,1,464,256C464,370.691,370.691,464,256,464Z"
+                          fill="var(--ci-primary-color, currentColor)"
+                        />
+                      </svg>
+                    </h2>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+            <!---->
+          </table>
+          <!---->
+        </div>
+        <!---->
+      </div>
+    </div>
+  </div>
+</div>
+`;

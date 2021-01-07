@@ -1,0 +1,208 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyDate オプション showClear=false クリアボタン非表示 1`] = `
+<div
+  class="form-row form-group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for="sample_field"
+  >
+    
+    サンプル
+  
+  </label>
+   
+  <div
+    class="col-sm-9"
+  >
+    <div
+      class="my-input-wrapper"
+    >
+      <div
+        class="d-flex"
+      >
+        <input
+          class="form-control flex-grow-1"
+          id="sample_field"
+          type="date"
+        />
+         
+        <!---->
+      </div>
+    </div>
+     
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`MyDate バリデーションエラー 表示 1`] = `
+<div
+  class="form-row form-group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for="sample_field"
+  >
+    
+    サンプル
+  
+  </label>
+   
+  <div
+    class="col-sm-9"
+  >
+    <div
+      class="my-input-wrapper is-invalid"
+    >
+      <div
+        class="d-flex"
+      >
+        <input
+          class="form-control flex-grow-1"
+          id="sample_field"
+          type="date"
+        />
+         
+        <button
+          class="btn"
+          type="button"
+        >
+          <svg
+            class="c-icon"
+            role="img"
+            viewBox="0 0 512 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              class="ci-primary"
+              d="M96,472a23.82,23.82,0,0,0,23.579,24H392.421A23.82,23.82,0,0,0,416,472V152H96Zm32-288H384V464H128Z"
+              fill="var(--ci-primary-color, currentColor)"
+            />
+            <rect
+              class="ci-primary"
+              fill="var(--ci-primary-color, currentColor)"
+              height="200"
+              width="32"
+              x="168"
+              y="216"
+            />
+            <rect
+              class="ci-primary"
+              fill="var(--ci-primary-color, currentColor)"
+              height="200"
+              width="32"
+              x="240"
+              y="216"
+            />
+            <rect
+              class="ci-primary"
+              fill="var(--ci-primary-color, currentColor)"
+              height="200"
+              width="32"
+              x="312"
+              y="216"
+            />
+            <path
+              class="ci-primary"
+              d="M328,88V40c0-13.458-9.488-24-21.6-24H205.6C193.488,16,184,26.542,184,40V88H64v32H448V88ZM216,48h80V88H216Z"
+              fill="var(--ci-primary-color, currentColor)"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+     
+    <div
+      class="invalid-feedback"
+    >
+      
+      エラーです
+    
+    </div>
+  </div>
+</div>
+`;
+
+exports[`MyDate 通常 表示 1`] = `
+<div
+  class="form-row form-group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for="sample_field"
+  >
+    
+    サンプル
+  
+  </label>
+   
+  <div
+    class="col-sm-9"
+  >
+    <div
+      class="my-input-wrapper"
+    >
+      <div
+        class="d-flex"
+      >
+        <input
+          class="form-control flex-grow-1"
+          id="sample_field"
+          type="date"
+        />
+         
+        <button
+          class="btn"
+          type="button"
+        >
+          <svg
+            class="c-icon"
+            role="img"
+            viewBox="0 0 512 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              class="ci-primary"
+              d="M96,472a23.82,23.82,0,0,0,23.579,24H392.421A23.82,23.82,0,0,0,416,472V152H96Zm32-288H384V464H128Z"
+              fill="var(--ci-primary-color, currentColor)"
+            />
+            <rect
+              class="ci-primary"
+              fill="var(--ci-primary-color, currentColor)"
+              height="200"
+              width="32"
+              x="168"
+              y="216"
+            />
+            <rect
+              class="ci-primary"
+              fill="var(--ci-primary-color, currentColor)"
+              height="200"
+              width="32"
+              x="240"
+              y="216"
+            />
+            <rect
+              class="ci-primary"
+              fill="var(--ci-primary-color, currentColor)"
+              height="200"
+              width="32"
+              x="312"
+              y="216"
+            />
+            <path
+              class="ci-primary"
+              d="M328,88V40c0-13.458-9.488-24-21.6-24H205.6C193.488,16,184,26.542,184,40V88H64v32H448V88ZM216,48h80V88H216Z"
+              fill="var(--ci-primary-color, currentColor)"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+     
+    <!---->
+  </div>
+</div>
+`;

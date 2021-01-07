@@ -1,0 +1,552 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List write権限：あり マウント metaタグ 1`] = `
+NodeList [
+  <meta
+    content="noindex"
+    data-vmid="robots"
+    data-vue-meta="2"
+    name="robots"
+  />,
+]
+`;
+
+exports[`List write権限：あり マウント titleタグ 1`] = `"やそスポーツクラブ | 場所一覧"`;
+
+exports[`List write権限：あり マウント データ取得：成功 テーブル表示 1`] = `
+<table
+  class="table"
+  data-v-5f7284b9=""
+>
+  <thead
+    data-v-5f7284b9=""
+  >
+    <tr
+      data-v-5f7284b9=""
+    >
+      <th
+        class=""
+        data-v-5f7284b9=""
+        style="vertical-align: middle; overflow: hidden;"
+      >
+        <div
+          data-v-5f7284b9=""
+        >
+          名称
+        </div>
+        <!---->
+      </th>
+      <th
+        class=""
+        data-v-5f7284b9=""
+        style="vertical-align: middle; overflow: hidden;"
+      >
+        <div
+          data-v-5f7284b9=""
+        >
+          略称
+        </div>
+        <!---->
+      </th>
+      <th
+        class=""
+        data-v-5f7284b9=""
+        style="vertical-align: middle; overflow: hidden;"
+      >
+        <div
+          data-v-5f7284b9=""
+        >
+          使用料（1時間ごと）
+        </div>
+        <!---->
+      </th>
+      <th
+        class=""
+        data-v-5f7284b9=""
+        style="vertical-align: middle; overflow: hidden;"
+      >
+        <div
+          data-v-5f7284b9=""
+        >
+          
+        </div>
+        <!---->
+      </th>
+    </tr>
+    <!---->
+  </thead>
+  <tbody
+    class="position-relative"
+    data-v-5f7284b9=""
+  >
+    <tr
+      data-v-5f7284b9=""
+    >
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         体育館＠公民館別棟 
+      </td>
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         体育館 
+      </td>
+      <td
+        class="text-right text-nowrap"
+        data-v-5f7284b9=""
+      >
+        
+            ¥940
+          
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        <a
+          class="btn btn-outline-primary"
+          data-v-5f7284b9=""
+          href="/reservation/schedule-place/edit/1"
+          target="_self"
+        >
+          
+                編集
+              
+        </a>
+         
+        <a
+          class="btn btn-outline-primary"
+          data-v-5f7284b9=""
+          href="/reservation/schedule-place/add?original_id=1"
+          target="_self"
+        >
+          
+                コピー
+              
+        </a>
+      </td>
+    </tr>
+    <!---->
+    <tr
+      data-v-5f7284b9=""
+    >
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         多目的ホール＠公民館1F 
+      </td>
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         多目的ホール 
+      </td>
+      <td
+        class="text-right text-nowrap"
+        data-v-5f7284b9=""
+      >
+        
+            ¥780
+          
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        <a
+          class="btn btn-outline-primary"
+          data-v-5f7284b9=""
+          href="/reservation/schedule-place/edit/2"
+          target="_self"
+        >
+          
+                編集
+              
+        </a>
+         
+        <a
+          class="btn btn-outline-primary"
+          data-v-5f7284b9=""
+          href="/reservation/schedule-place/add?original_id=2"
+          target="_self"
+        >
+          
+                コピー
+              
+        </a>
+      </td>
+    </tr>
+    <!---->
+    <tr
+      data-v-5f7284b9=""
+    >
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         大会議室＠公民館2F 
+      </td>
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         大会議室 
+      </td>
+      <td
+        class="text-right text-nowrap"
+        data-v-5f7284b9=""
+      >
+        
+            ¥510
+          
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        <a
+          class="btn btn-outline-primary"
+          data-v-5f7284b9=""
+          href="/reservation/schedule-place/edit/3"
+          target="_self"
+        >
+          
+                編集
+              
+        </a>
+         
+        <a
+          class="btn btn-outline-primary"
+          data-v-5f7284b9=""
+          href="/reservation/schedule-place/add?original_id=3"
+          target="_self"
+        >
+          
+                コピー
+              
+        </a>
+      </td>
+    </tr>
+    <!---->
+    <!---->
+  </tbody>
+  <!---->
+</table>
+`;
+
+exports[`List write権限：あり マウント ページ全体表示 1`] = `
+<div>
+  <h1>
+    場所一覧
+  </h1>
+   
+  <div
+    class="card"
+  >
+    <div
+      class="card-body"
+    >
+      <div
+        data-v-5f7284b9=""
+      >
+        <!---->
+        <div
+          class="position-relative table-responsive"
+          data-v-5f7284b9=""
+        >
+          <table
+            class="table"
+            data-v-5f7284b9=""
+          >
+            <thead
+              data-v-5f7284b9=""
+            >
+              <tr
+                data-v-5f7284b9=""
+              >
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    名称
+                  </div>
+                  <!---->
+                </th>
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    略称
+                  </div>
+                  <!---->
+                </th>
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    使用料（1時間ごと）
+                  </div>
+                  <!---->
+                </th>
+                <th
+                  class=""
+                  data-v-5f7284b9=""
+                  style="vertical-align: middle; overflow: hidden;"
+                >
+                  <div
+                    data-v-5f7284b9=""
+                  >
+                    
+                  </div>
+                  <!---->
+                </th>
+              </tr>
+              <!---->
+            </thead>
+            <tbody
+              class="position-relative"
+              data-v-5f7284b9=""
+            >
+              <tr
+                data-v-5f7284b9=""
+              >
+                <td
+                  colspan="4"
+                  data-v-5f7284b9=""
+                >
+                  <div
+                    class="text-center my-5"
+                    data-v-5f7284b9=""
+                  >
+                    <h2
+                      data-v-5f7284b9=""
+                    >
+                       No items 
+                      <svg
+                        class="text-danger mb-2 c-icon c-icon-custom-size"
+                        data-v-5f7284b9=""
+                        role="img"
+                        viewBox="0 0 512 512"
+                        width="30"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          class="ci-primary"
+                          d="M425.706,86.294A240,240,0,0,0,86.294,425.705,240,240,0,0,0,425.706,86.294ZM256,48A207.1,207.1,0,0,1,391.528,98.345L98.345,391.528A207.1,207.1,0,0,1,48,256C48,141.309,141.309,48,256,48Zm0,416a207.084,207.084,0,0,1-134.986-49.887l293.1-293.1A207.084,207.084,0,0,1,464,256C464,370.691,370.691,464,256,464Z"
+                          fill="var(--ci-primary-color, currentColor)"
+                        />
+                      </svg>
+                    </h2>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+            <!---->
+          </table>
+          <!---->
+        </div>
+        <!---->
+      </div>
+    </div>
+     
+    <footer
+      class="card-footer"
+    >
+      <a
+        class="btn btn-outline-primary"
+        href="/reservation/schedule-place/add"
+        target="_self"
+      >
+        
+        追加
+      
+      </a>
+       
+      <a
+        class="btn btn-outline-primary"
+        href="/reservation/schedule-place/reorder"
+        target="_self"
+      >
+        
+        並べ替え
+      
+      </a>
+    </footer>
+  </div>
+</div>
+`;
+
+exports[`List write権限：なし テーブル表示 1`] = `
+<table
+  class="table"
+  data-v-5f7284b9=""
+>
+  <thead
+    data-v-5f7284b9=""
+  >
+    <tr
+      data-v-5f7284b9=""
+    >
+      <th
+        class=""
+        data-v-5f7284b9=""
+        style="vertical-align: middle; overflow: hidden;"
+      >
+        <div
+          data-v-5f7284b9=""
+        >
+          名称
+        </div>
+        <!---->
+      </th>
+      <th
+        class=""
+        data-v-5f7284b9=""
+        style="vertical-align: middle; overflow: hidden;"
+      >
+        <div
+          data-v-5f7284b9=""
+        >
+          略称
+        </div>
+        <!---->
+      </th>
+      <th
+        class=""
+        data-v-5f7284b9=""
+        style="vertical-align: middle; overflow: hidden;"
+      >
+        <div
+          data-v-5f7284b9=""
+        >
+          使用料（1時間ごと）
+        </div>
+        <!---->
+      </th>
+      <th
+        class=""
+        data-v-5f7284b9=""
+        style="vertical-align: middle; overflow: hidden;"
+      >
+        <div
+          data-v-5f7284b9=""
+        >
+          
+        </div>
+        <!---->
+      </th>
+    </tr>
+    <!---->
+  </thead>
+  <tbody
+    class="position-relative"
+    data-v-5f7284b9=""
+  >
+    <tr
+      data-v-5f7284b9=""
+    >
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         体育館＠公民館別棟 
+      </td>
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         体育館 
+      </td>
+      <td
+        class="text-right text-nowrap"
+        data-v-5f7284b9=""
+      >
+        
+            ¥940
+          
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        <!---->
+      </td>
+    </tr>
+    <!---->
+    <tr
+      data-v-5f7284b9=""
+    >
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         多目的ホール＠公民館1F 
+      </td>
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         多目的ホール 
+      </td>
+      <td
+        class="text-right text-nowrap"
+        data-v-5f7284b9=""
+      >
+        
+            ¥780
+          
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        <!---->
+      </td>
+    </tr>
+    <!---->
+    <tr
+      data-v-5f7284b9=""
+    >
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         大会議室＠公民館2F 
+      </td>
+      <td
+        class=""
+        data-v-5f7284b9=""
+      >
+         大会議室 
+      </td>
+      <td
+        class="text-right text-nowrap"
+        data-v-5f7284b9=""
+      >
+        
+            ¥510
+          
+      </td>
+      <td
+        data-v-5f7284b9=""
+      >
+        <!---->
+      </td>
+    </tr>
+    <!---->
+    <!---->
+  </tbody>
+  <!---->
+</table>
+`;

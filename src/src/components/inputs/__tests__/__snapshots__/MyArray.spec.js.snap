@@ -1,0 +1,313 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyArray slot listItem 値をセット リスト表示 1`] = `
+<ul
+  class="list-group my-array-items"
+  role="list-items"
+>
+  <li
+    class="list-group-item d-flex align-items-center py-1"
+  >
+    <span
+      class="flex-grow-1"
+    >
+      <span
+        class="slot-customized"
+      >
+        item2
+      </span>
+    </span>
+     
+    <button
+      class="btn btn-array-delete btn-outline-info btn-sm"
+      type="button"
+    >
+      <svg
+        class="c-icon"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <polygon
+          class="ci-primary"
+          fill="var(--ci-primary-color, currentColor)"
+          points="427.314 107.313 404.686 84.687 256 233.373 107.314 84.687 84.686 107.313 233.373 256 84.686 404.687 107.314 427.313 256 278.627 404.686 427.313 427.314 404.687 278.627 256 427.314 107.313"
+        />
+      </svg>
+    </button>
+  </li>
+</ul>
+`;
+
+exports[`MyArray 初期値：あり リスト表示 1`] = `
+<ul
+  class="list-group my-array-items"
+  role="list-items"
+>
+  <li
+    class="list-group-item d-flex align-items-center py-1"
+  >
+    <span
+      class="flex-grow-1"
+    >
+      
+          item1
+        
+    </span>
+     
+    <button
+      class="btn btn-array-delete btn-outline-info btn-sm"
+      type="button"
+    >
+      <svg
+        class="c-icon"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <polygon
+          class="ci-primary"
+          fill="var(--ci-primary-color, currentColor)"
+          points="427.314 107.313 404.686 84.687 256 233.373 107.314 84.687 84.686 107.313 233.373 256 84.686 404.687 107.314 427.313 256 278.627 404.686 427.313 427.314 404.687 278.627 256 427.314 107.313"
+        />
+      </svg>
+    </button>
+  </li>
+  <li
+    class="list-group-item d-flex align-items-center py-1"
+  >
+    <span
+      class="flex-grow-1"
+    >
+      
+          item2
+        
+    </span>
+     
+    <button
+      class="btn btn-array-delete btn-outline-info btn-sm"
+      type="button"
+    >
+      <svg
+        class="c-icon"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <polygon
+          class="ci-primary"
+          fill="var(--ci-primary-color, currentColor)"
+          points="427.314 107.313 404.686 84.687 256 233.373 107.314 84.687 84.686 107.313 233.373 256 84.686 404.687 107.314 427.313 256 278.627 404.686 427.313 427.314 404.687 278.627 256 427.314 107.313"
+        />
+      </svg>
+    </button>
+  </li>
+</ul>
+`;
+
+exports[`MyArray 通常 バリデーションエラー 表示 1`] = `
+<div
+  class="form-row form-group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for="sample_field"
+  >
+    
+    サンプル
+  
+  </label>
+   
+  <div
+    class="col-sm-9"
+  >
+    <div
+      class="my-input-wrapper is-invalid"
+    >
+      <div>
+        <div
+          class="d-flex"
+        >
+          <div
+            class="flex-grow-1"
+          >
+            <div>
+              slot default. inner field = sample_field_inner
+            </div>
+          </div>
+           
+          <button
+            class="btn btn-array-add btn-outline-info"
+            type="button"
+          >
+            
+      追加
+    
+          </button>
+        </div>
+         
+        <ul
+          class="list-group my-array-items"
+          role="list-items"
+        />
+      </div>
+    </div>
+     
+    <div
+      class="invalid-feedback"
+    >
+      
+      エラーです
+    
+    </div>
+  </div>
+</div>
+`;
+
+exports[`MyArray 通常 値を入力して追加ボタンクリック 異なる値を入力して追加ボタンクリック 中間の値を入力して追加ボタンクリック リスト表示 1`] = `
+<ul
+  class="list-group my-array-items"
+  role="list-items"
+>
+  <li
+    class="list-group-item d-flex align-items-center py-1"
+  >
+    <span
+      class="flex-grow-1"
+    >
+      
+          item1
+        
+    </span>
+     
+    <button
+      class="btn btn-array-delete btn-outline-info btn-sm"
+      type="button"
+    >
+      <svg
+        class="c-icon"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <polygon
+          class="ci-primary"
+          fill="var(--ci-primary-color, currentColor)"
+          points="427.314 107.313 404.686 84.687 256 233.373 107.314 84.687 84.686 107.313 233.373 256 84.686 404.687 107.314 427.313 256 278.627 404.686 427.313 427.314 404.687 278.627 256 427.314 107.313"
+        />
+      </svg>
+    </button>
+  </li>
+  <li
+    class="list-group-item d-flex align-items-center py-1"
+  >
+    <span
+      class="flex-grow-1"
+    >
+      
+          item2
+        
+    </span>
+     
+    <button
+      class="btn btn-array-delete btn-outline-info btn-sm"
+      type="button"
+    >
+      <svg
+        class="c-icon"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <polygon
+          class="ci-primary"
+          fill="var(--ci-primary-color, currentColor)"
+          points="427.314 107.313 404.686 84.687 256 233.373 107.314 84.687 84.686 107.313 233.373 256 84.686 404.687 107.314 427.313 256 278.627 404.686 427.313 427.314 404.687 278.627 256 427.314 107.313"
+        />
+      </svg>
+    </button>
+  </li>
+  <li
+    class="list-group-item d-flex align-items-center py-1"
+  >
+    <span
+      class="flex-grow-1"
+    >
+      
+          item3
+        
+    </span>
+     
+    <button
+      class="btn btn-array-delete btn-outline-info btn-sm"
+      type="button"
+    >
+      <svg
+        class="c-icon"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <polygon
+          class="ci-primary"
+          fill="var(--ci-primary-color, currentColor)"
+          points="427.314 107.313 404.686 84.687 256 233.373 107.314 84.687 84.686 107.313 233.373 256 84.686 404.687 107.314 427.313 256 278.627 404.686 427.313 427.314 404.687 278.627 256 427.314 107.313"
+        />
+      </svg>
+    </button>
+  </li>
+</ul>
+`;
+
+exports[`MyArray 通常 表示 1`] = `
+<div
+  class="form-row form-group"
+>
+  <label
+    class="col-form-label col-sm-3"
+    for="sample_field"
+  >
+    
+    サンプル
+  
+  </label>
+   
+  <div
+    class="col-sm-9"
+  >
+    <div
+      class="my-input-wrapper"
+    >
+      <div>
+        <div
+          class="d-flex"
+        >
+          <div
+            class="flex-grow-1"
+          >
+            <div>
+              slot default. inner field = sample_field_inner
+            </div>
+          </div>
+           
+          <button
+            class="btn btn-array-add btn-outline-info"
+            type="button"
+          >
+            
+      追加
+    
+          </button>
+        </div>
+         
+        <ul
+          class="list-group my-array-items"
+          role="list-items"
+        />
+      </div>
+    </div>
+     
+    <!---->
+  </div>
+</div>
+`;
