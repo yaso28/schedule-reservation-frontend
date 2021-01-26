@@ -56,6 +56,9 @@
                 {{ $t('common.here') }}
               </CLink>
             </li>
+            <li>
+              {{ $t('send.statement.demo') }}
+            </li>
           </ul>
         </CCardBody>
         <CCardFooter>

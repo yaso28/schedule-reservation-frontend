@@ -14,10 +14,12 @@ jest.mock('@/models/MyForm')
 const makeSettingRecord = (categoryName, keyName, value, description) => ({ category_name: categoryName, key_name: keyName, value, description })
 const makeEditTarget = (name, expectedRecord) => ({ name, expectedRecord, makeFormArgs: { value: expectedRecord.value } })
 const editTargetList = [
+  /*
   makeEditTarget(
     '宛先メールアドレス',
     makeSettingRecord(setting.reservation.category, setting.reservation.mail_to, 'sample@example.com', '練習予定を送信する宛先のメールアドレスです。')
   ),
+  */
   makeEditTarget(
     '件名',
     makeSettingRecord(setting.reservation.category, setting.reservation.mail_subject, '{month_name}の練習予定', 'メールの件名です。{month_name}は"yyyy年mm月"に置き換わります。')

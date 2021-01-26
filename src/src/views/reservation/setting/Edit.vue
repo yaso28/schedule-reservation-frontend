@@ -67,7 +67,7 @@ export default {
   data () {
     return {
       settingList: [
-        [setting.reservation.category, setting.reservation.mail_to, 'send.mail_to', 1],
+        // [setting.reservation.category, setting.reservation.mail_to, 'send.mail_to', 1],
         [setting.reservation.category, setting.reservation.mail_subject, 'send.subject', 1],
         [setting.reservation.category, setting.reservation.mail_message_begin, 'send.message_begin', 5],
         [setting.reservation_public.category, setting.reservation_public.notes, 'common.notes', 5],
