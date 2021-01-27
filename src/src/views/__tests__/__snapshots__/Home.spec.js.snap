@@ -20,5 +20,169 @@ exports[`Home マウント ページ全体表示 1`] = `
   <h1>
     やそスポーツクラブ 公式サイト
   </h1>
+   
+  <div
+    class="card mt-4 card-accent-primary"
+  >
+    <div
+      class="card-body"
+    >
+      <p>
+        
+        練習会場予約状況の管理および練習予定の公開を行うWebシステムです。
+        <br />
+        
+        （ポートフォリオ用のデモサイトです。）
+      
+      </p>
+       
+      <div
+        class="my-2"
+      >
+        <button
+          class="btn btn-outline-primary"
+          type="button"
+        >
+          
+          ゲストができること
+        
+        </button>
+         
+        <div
+          class=""
+          style="display: none;"
+        >
+          <ul
+            class="list-group"
+            role="list-items"
+          >
+            <a
+              class="list-group-item text-body list-group-item-action"
+              href="/schedule/list"
+              target="_self"
+            >
+              
+              練習予定の閲覧
+            
+            </a>
+          </ul>
+        </div>
+      </div>
+       
+      <div
+        class="my-2"
+      >
+        <button
+          class="btn btn-outline-primary"
+          type="button"
+        >
+          
+          システム管理者(*1)ができること
+        
+        </button>
+         
+        <div
+          class=""
+          style="display: none;"
+        >
+          <ul
+            class="list-group"
+            role="list-items"
+          >
+            <a
+              class="list-group-item text-body list-group-item-action"
+              href="/reservation/schedule/list"
+              target="_self"
+            >
+              
+              練習予定の追加・編集
+            
+            </a>
+            <a
+              class="list-group-item text-body list-group-item-action"
+              href="/reservation/reservation/list"
+              target="_self"
+            >
+              
+              会場予約の編集・分割(*2)
+            
+            </a>
+            <a
+              class="list-group-item text-body list-group-item-action"
+              href="/reservation/month/list"
+              target="_self"
+            >
+              
+              月別練習予定のメール送信
+            
+            </a>
+          </ul>
+           
+          <ul
+            class="list-unstyled ml-1"
+          >
+            <li>
+              
+              (*1) ログインID：admin パスワード：admin$28
+            
+            </li>
+             
+            <li>
+              
+              (*2) 先行予約できるのは合計＊時間までといった上限がある施設にて時間帯を分けて予約する場合に利用します。
+              <br />
+              
+              （例：6時間のうち3時間を先行予約しておき、1ヶ月前を過ぎ上限が無くなってから残り3時間を予約する。）
+            
+            </li>
+          </ul>
+        </div>
+      </div>
+       
+      <div
+        class="my-2"
+      >
+        <button
+          class="btn btn-outline-info"
+          type="button"
+        >
+          
+          ソースコード
+        
+        </button>
+         
+        <div
+          class=""
+          style="display: none;"
+        >
+          <ul
+            class="list-group"
+            role="list-items"
+          >
+            <a
+              class="list-group-item text-body list-group-item-action"
+              href="https://github.com/yaso28/schedule-reservation-frontend"
+              rel="noopener"
+              target="_blank"
+            >
+              
+              フロントエンド
+            
+            </a>
+            <a
+              class="list-group-item text-body list-group-item-action"
+              href="https://github.com/yaso28/schedule-reservation-backend"
+              rel="noopener"
+              target="_blank"
+            >
+              
+              バックエンド
+            
+            </a>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 `;
