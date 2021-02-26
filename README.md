@@ -5,4 +5,6 @@
 <dl>
   <dt>フレームワーク</dt>
   <dd>Vue 2</dd>
+  <dt>デモサイト</dt>
+  <dd>https://info.schedule-reservation.yaso28.com</dd>
 </dl>
